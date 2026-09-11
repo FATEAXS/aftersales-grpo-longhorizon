@@ -126,7 +126,7 @@ def _user_id_of(fact: TaskFacts) -> str:
 
 
 def apply_policy_override(overrides: dict) -> None:
-    """创新机制 F「政策漂移」：运行中热替换政策字段。
+    """政策热替换：运行中修改政策字段。
 
     用于测试模型是每次真的在查政策,还是背训练时的答案——
     例:{"服装鞋帽": {"no_reason_return_days": 15}}。

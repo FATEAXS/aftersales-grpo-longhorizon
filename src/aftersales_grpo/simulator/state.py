@@ -211,7 +211,7 @@ class SessionState:
         return any(o.order_id == order_id for o in self.all_orders)
 
     def _timeline_warning(self, order: Order) -> dict | None:
-        """创新机制 E:用户口述购买时间与订单签收记录不符时给出环境警告。
+        """用户口述购买时间与订单签收记录不符时给出环境警告。
 
         真实客服不能全信用户陈述——该警告让模型学会交叉核对时间线,
         既是服务质量的证据面,也是"口误/欺诈陈述"防御的训练信号。
