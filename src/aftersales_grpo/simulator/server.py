@@ -182,7 +182,7 @@ def get_task(task_id: str):
 
 @app.post("/v1/policies/override")
 def post_policy_override(req: PolicyOverrideRequest):
-    """创新机制 F:运行中热替换政策(测政策记忆化)。"""
+    """运行中热替换政策,用于测政策记忆化。"""
     apply_policy_override(req.overrides)
     return {"applied": True, "fingerprint": _WORLD["fingerprint"]}
 
@@ -244,7 +244,7 @@ def main() -> None:
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=5800)
     parser.add_argument("--policy-override", type=Path, default=None,
-                        help="启动即热替换政策:{类目: {字段: 值}}(创新机制 F)")
+                        help="启动即热替换政策:{类目: {字段: 值}}")
     parser.add_argument("--noise-level", type=int, default=0, choices=(0, 1),
                         help="观测噪声:1 时 query_order 返回掺入无关字段(P2-10)")
     args = parser.parse_args()

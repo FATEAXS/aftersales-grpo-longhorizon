@@ -96,7 +96,7 @@ class SessionState:
     # 会触发确定性用户应答（给出正确订单号）；此后 clarified=True。
     user_responses: list[str] = field(default_factory=list)
     clarified: bool = False
-    # 创新机制 E「时间线一致性校验」：环境日期 + 用户口述天数比对
+    # 时间线一致性校验:环境日期与用户口述天数比对
     today: str = ""
     timeline_mismatch_reported: bool = False
     # P2-10 观测噪声:1 时 query_order 掺入无关字段,考验信息筛选

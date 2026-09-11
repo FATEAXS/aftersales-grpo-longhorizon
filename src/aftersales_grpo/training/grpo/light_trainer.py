@@ -4,9 +4,9 @@
 
 1. 场景分层批次采样（P0）：每步按"敏感任务(拒绝/风控) : 常规任务"固定配额
    抽样，消除批次场景构成导致的组内基线漂移；
-2. 风险加权优势（创新 A）：敏感任务（风控/应拒绝）上错误动作的 advantage
+2. 风险加权优势：敏感任务（风控/应拒绝）上错误动作的 advantage
    按 --risk-weight 加权，把合规从事采样推进到梯度权重；
-3. 组内榜样锚定基线（创新 B）：敏感任务组内若存在成功轨迹，以最优成功轨迹
+3. 组内榜样锚定基线：敏感任务组内若存在成功轨迹，以最优成功轨迹
    的奖励为锚计算优势（而非均值）——"大多数都错"的组不再把错误当正常；
 4. 多内层 epoch + 比率裁剪（P0）：每批数据复用 inner_epochs 次，存储
    old log-prob，clip(π/π_old, 1-ε, 1+ε)，获得真正的 PPO 语义
@@ -64,7 +64,7 @@ def parse_args():
     parser.add_argument("--temperature", type=float, default=0.9)
     parser.add_argument("--process-lambda", type=float, default=0.5)
     parser.add_argument("--risk-weight", type=float, default=1.5,
-                        help="敏感任务(拒绝/风控)的 advantage 权重（创新 A）")
+                        help="敏感任务(拒绝/风控)的 advantage 权重")
     parser.add_argument("--inner-epochs", type=int, default=2,
                         help="每批数据的内层更新次数（>1 时启用 PPO 比率裁剪）")
     parser.add_argument("--clip-eps", type=float, default=0.2)

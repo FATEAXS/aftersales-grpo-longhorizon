@@ -63,7 +63,7 @@ def _expected_policy_window(facts: TaskFacts, state: SessionState) -> int | None
 
 
 def _explanation_consistent(facts: TaskFacts, state: SessionState) -> bool | None:
-    """创新机制 D:拒绝时回复必须包含正确的政策窗口数字。
+    """解释一致性:拒绝时回复必须包含正确的政策窗口数字。
 
     返回 None 表示该任务不要求(非拒绝类场景)。
     """
@@ -138,7 +138,7 @@ def process_reward(
             for step in state.actions
         )
 
-    # 创新机制 D:解释一致性(仅拒绝类场景要求;其他场景不要求也不扣)
+    # 解释一致性:解释一致性(仅拒绝类场景要求;其他场景不要求也不扣)
     explained = _explanation_consistent(facts, state)
     milestones["m_explain"] = True if explained is None else bool(explained)
 

@@ -140,7 +140,7 @@ def grade(facts: TaskFacts, state: SessionState) -> dict:
     if base > 0 and actual and not traj["replied"]:
         penalties["no_reply_to_user"] = NO_REPLY_PENALTY
 
-    # 创新机制 C「成本敏感满意度」:完美解决却滥发补偿券的,按业务成本观
+    # 成本敏感补偿:完美解决却滥发补偿券的,按业务成本观
     # 扣小额分。仅作用于"补偿并非该场景自然解"的可解决任务(食品/美妆等
     # 仅退款类、未收到货类补偿属于正常处置,不扣)。
     if (
