@@ -6,8 +6,7 @@
    抽样，消除批次场景构成导致的组内基线漂移；
 2. 风险加权优势：敏感任务（风控/应拒绝）上错误动作的 advantage
    按 --risk-weight 加权，把合规从事采样推进到梯度权重；
-3. 组内榜样锚定基线：敏感任务组内若存在成功轨迹，以最优成功轨迹
-   的奖励为锚计算优势（而非均值）——"大多数都错"的组不再把错误当正常；
+3. 组内最优基线：敏感任务组内若存在成功轨迹，以其中最优成功轨迹的奖励为基线计算优势（而非均值）——"大多数都错"的组不再把错误当正常；
 4. 多内层 epoch + 比率裁剪（P0）：每批数据复用 inner_epochs 次，存储
    old log-prob，clip(π/π_old, 1-ε, 1+ε)，获得真正的 PPO 语义
    （v1 等价于单步 REINFORCE）。
@@ -278,11 +277,11 @@ def main() -> None:
 
             for r in group:
                 if sensitive and successes:
-                    # ---- 创新 B: 组内榜样锚定基线 ----
+                    # ---- 创新 B: 组内最优基线 ----
                     anchor = max(r_["reward"] for r_ in successes)
                     r["advantage"] = (r["reward"] - anchor) / (std + 1e-4)
                     if r["success"] and r["reward"] == anchor:
-                        r["advantage"] += 0.5  # 榜样本身获得额外正向锚定
+                        r["advantage"] += 0.5  # 组内最优轨迹额外加 0.5
                 else:
                     r["advantage"] = (r["reward"] - mean) / (std + 1e-4)
                 # ---- 创新 A: 风险加权优势 ----
