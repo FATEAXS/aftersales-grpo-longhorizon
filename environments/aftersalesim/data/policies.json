@@ -1,0 +1,98 @@
+{
+ "3C数码": {
+  "category": "3C数码",
+  "no_reason_return_days": 7,
+  "quality_return_days": 15,
+  "quality_exchange_days": 15,
+  "size_exchange_days": 0,
+  "price_protection_days": 7,
+  "quality_refund_without_return": false,
+  "refund_on_quality": true,
+  "notes": "激活类商品（手机/平板）无理由退货需保持未激活；质量问题需提供照片或检测凭证。",
+  "quality_refund_only_days": 0
+ },
+ "服装鞋帽": {
+  "category": "服装鞋帽",
+  "no_reason_return_days": 7,
+  "quality_return_days": 15,
+  "quality_exchange_days": 15,
+  "size_exchange_days": 15,
+  "price_protection_days": 0,
+  "quality_refund_without_return": false,
+  "refund_on_quality": true,
+  "notes": "无理由退货需不影响二次销售（吊牌完整、未洗涤）；尺码问题优先换货。",
+  "quality_refund_only_days": 0
+ },
+ "食品保健": {
+  "category": "食品保健",
+  "no_reason_return_days": 0,
+  "quality_return_days": 0,
+  "quality_exchange_days": 0,
+  "size_exchange_days": 0,
+  "price_protection_days": 0,
+  "quality_refund_without_return": true,
+  "refund_on_quality": true,
+  "notes": "食品不支持无理由退货；质量问题仅退款不退货，可酌情发放补偿券。",
+  "quality_refund_only_days": 15
+ },
+ "美妆个护": {
+  "category": "美妆个护",
+  "no_reason_return_days": 0,
+  "quality_return_days": 15,
+  "quality_exchange_days": 15,
+  "size_exchange_days": 0,
+  "price_protection_days": 0,
+  "quality_refund_without_return": true,
+  "refund_on_quality": true,
+  "notes": "拆封后不支持无理由退货；过敏等质量问题仅退款不退货。",
+  "quality_refund_only_days": 15
+ },
+ "家居日用": {
+  "category": "家居日用",
+  "no_reason_return_days": 7,
+  "quality_return_days": 15,
+  "quality_exchange_days": 15,
+  "size_exchange_days": 0,
+  "price_protection_days": 0,
+  "quality_refund_without_return": false,
+  "refund_on_quality": true,
+  "notes": "大件家具质量问题可上门取件；无理由退货需包装完好。",
+  "quality_refund_only_days": 0
+ },
+ "虚拟商品": {
+  "category": "虚拟商品",
+  "no_reason_return_days": 0,
+  "quality_return_days": 0,
+  "quality_exchange_days": 0,
+  "size_exchange_days": 0,
+  "price_protection_days": 0,
+  "quality_refund_without_return": false,
+  "refund_on_quality": false,
+  "notes": "虚拟商品（卡券/会员/充值）一经售出不支持退款，异常问题请转人工核实。",
+  "quality_refund_only_days": 0
+ },
+ "定制商品": {
+  "category": "定制商品",
+  "no_reason_return_days": 0,
+  "quality_return_days": 30,
+  "quality_exchange_days": 0,
+  "size_exchange_days": 0,
+  "price_protection_days": 0,
+  "quality_refund_without_return": true,
+  "refund_on_quality": true,
+  "notes": "定制类商品不支持无理由退换；质量问题（破损/错做）30 天内可退，仅退款不退货。",
+  "quality_refund_only_days": 0
+ },
+ "母婴用品": {
+  "category": "母婴用品",
+  "no_reason_return_days": 7,
+  "quality_return_days": 15,
+  "quality_exchange_days": 15,
+  "size_exchange_days": 15,
+  "price_protection_days": 0,
+  "quality_refund_without_return": true,
+  "refund_on_quality": true,
+  "notes": "奶粉等入口类拆封后不支持无理由退货；质量问题仅退款不退货。",
+  "quality_refund_only_days": 15
+ }
+}

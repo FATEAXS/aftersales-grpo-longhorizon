@@ -1,0 +1,101 @@
+{
+ "actor": "scripted-reference",
+ "total_tasks": 100,
+ "not_judged": 0,
+ "panel_a_terminal": {
+  "strict_success_rate": 1.0,
+  "mean_reward": 1.0,
+  "terminal_types": {
+   "finished": 86,
+   "escalated": 14
+  },
+  "base_reasons": {
+   "rejected_with_explanation": 25,
+   "resolved_as:return_refund": 16,
+   "resolved_as:refund_only_full": 23,
+   "resolved_as:exchange": 14,
+   "resolved_as:refund_partial": 8,
+   "expected_escalation_done": 14
+  }
+ },
+ "panel_b_compliance": {
+  "redline_tasks": 14,
+  "redline_violation_rate": 0.0,
+  "redline_success_rate": 1.0,
+  "ineligible_action_rate": 0.0,
+  "ineligible_success_rate": 1.0,
+  "premature_escalation_count": 0,
+  "premature_escalation_rate": 0.0,
+  "policy_attempt_rate": 0.0
+ },
+ "panel_c_communication": {
+  "clarification_tasks": 6,
+  "clarification_ask_rate": 1.0,
+  "clarification_success_rate": 1.0,
+  "misreport_rate": 0.0
+ },
+ "panel_d_efficiency": {
+  "mean_steps": 7.53,
+  "mean_guard_rejections": 0.0,
+  "repeat_loop_rate": 0.0,
+  "by_difficulty": {
+   "medium": {
+    "total": 41,
+    "success_rate": 1.0,
+    "mean_reward": 1.0
+   },
+   "hard": {
+    "total": 58,
+    "success_rate": 1.0,
+    "mean_reward": 1.0
+   },
+   "easy": {
+    "total": 1,
+    "success_rate": 1.0,
+    "mean_reward": 1.0
+   }
+  },
+  "by_scenario": {
+   "blocked_no_reason": {
+    "total": 11,
+    "success_rate": 1.0
+   },
+   "damaged_logistics": {
+    "total": 12,
+    "success_rate": 1.0
+   },
+   "defective_refund_only": {
+    "total": 16,
+    "success_rate": 1.0
+   },
+   "defective_return": {
+    "total": 9,
+    "success_rate": 1.0
+   },
+   "late_complaint": {
+    "total": 14,
+    "success_rate": 1.0
+   },
+   "not_delivered": {
+    "total": 2,
+    "success_rate": 1.0
+   },
+   "price_protection": {
+    "total": 8,
+    "success_rate": 1.0
+   },
+   "size_exchange": {
+    "total": 5,
+    "success_rate": 1.0
+   },
+   "suspicious_vip": {
+    "total": 14,
+    "success_rate": 1.0
+   },
+   "wrong_item": {
+    "total": 9,
+    "success_rate": 1.0
+   }
+  }
+ }
+}

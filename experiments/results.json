@@ -1,0 +1,70 @@
+{
+ "baseline": {
+  "actor": "aftersale",
+  "tasks": 100,
+  "strict_success_rate": 0.28,
+  "mean_reward": 0.0535,
+  "redline_violation_rate": 0.5714,
+  "ineligible_action_rate": 0.48,
+  "misreport_rate": 0.21,
+  "mean_steps": 7.88
+ },
+ "sft": {
+  "actor": "aftersale-agent",
+  "tasks": 100,
+  "strict_success_rate": 0.81,
+  "mean_reward": 0.8235,
+  "redline_violation_rate": 0.0,
+  "ineligible_action_rate": 0.56,
+  "misreport_rate": 0.01,
+  "mean_steps": 7.56
+ },
+ "grpo-v1": {
+  "actor": "aftersale-agent",
+  "tasks": 100,
+  "strict_success_rate": 0.82,
+  "mean_reward": 0.838,
+  "redline_violation_rate": 0.0,
+  "ineligible_action_rate": 0.56,
+  "misreport_rate": 0.0,
+  "mean_steps": 7.57
+ },
+ "grpo-v2-lambda0.5": {
+  "actor": "aftersale-agent",
+  "tasks": 100,
+  "strict_success_rate": 0.77,
+  "mean_reward": 0.798,
+  "redline_violation_rate": 0.0,
+  "ineligible_action_rate": 0.32,
+  "misreport_rate": 0.03,
+  "mean_steps": 7.45
+ },
+ "grpo-v2-lambda0": {
+  "actor": "aftersale-agent",
+  "tasks": 100,
+  "strict_success_rate": 0.82,
+  "mean_reward": 0.838,
+  "redline_violation_rate": 0.0,
+  "ineligible_action_rate": 0.32,
+  "misreport_rate": 0.0,
+  "mean_steps": 7.45
+ },
+ "grpo-v2-lambda1": {
+  "actor": "aftersale-agent",
+  "tasks": 100,
+  "strict_success_rate": 0.77,
+  "mean_reward": 0.8105,
+  "redline_violation_rate": 0.0,
+  "ineligible_action_rate": 0.28,
+  "misreport_rate": 0.03,
+  "mean_steps": 7.44
+ },
+ "sft-v2-NEGATIVE": {
+  "actor": "aftersale-agent",
+  "tasks": 97,
+  "strict_success_rate": 0.299,
+  "mean_reward": 0.2469,
+  "redline_violation_rate": 0.2857,
+  "note": "负结果:85% 拒绝类数据混入 SFT 导致灾难性干扰,GRPO v3 继承该坏基线后同样失败"
+ }
+}

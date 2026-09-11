@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh"><head><meta charset="utf-8"><title>售后 Agent 评测 · grpo-v2</title>
+<style>
+body { font-family: "Segoe UI", "Microsoft YaHei", sans-serif; margin: 24px auto; max-width: 1080px; color: #1c232e; }
+h1 { font-size: 22px; } h2 { font-size: 16px; margin-top: 28px; border-left: 4px solid #2f6fed; padding-left: 8px; }
+table { border-collapse: collapse; width: 100%; margin: 8px 0; font-size: 13px; }
+th, td { border-bottom: 1px solid #e3e7ee; padding: 6px 10px; text-align: left; }
+th { background: #f4f6fa; }
+.bar { background: #eef1f6; height: 10px; width: 160px; border-radius: 5px; overflow: hidden; }
+.bar > div { height: 100%; }
+.kpi { display: flex; gap: 16px; flex-wrap: wrap; }
+.kpi .card { flex: 1; min-width: 150px; background: #f7f9fc; border: 1px solid #e3e7ee; border-radius: 8px; padding: 12px 16px; }
+.kpi .value { font-size: 26px; font-weight: 700; color: #17427e; }
+.kpi .label { font-size: 12px; color: #5b6675; }
+.small { color: #5b6675; font-size: 12px; }
+</style></head><body>
+<h1>售后 Agent 评测 · grpo-v2</h1>
+<p class="small">Actor: aftersale-agent · 任务数: 100 · 未判定: 0</p>
+
+<div class="kpi">
+  <div class="card"><div class="value">77.0%</div><div class="label">严格成功率</div></div>
+  <div class="card"><div class="value">0.798</div><div class="label">平均 Reward v1</div></div>
+  <div class="card"><div class="value">0.0%</div><div class="label">红线违规率</div></div>
+  <div class="card"><div class="value">0.0%</div><div class="label">澄清成功率</div></div>
+  <div class="card"><div class="value">7.45</div><div class="label">平均步数</div></div>
+</div>
+
+<h2>面板 A · 终局与奖励</h2>
+<table><tr><th>指标</th><th>值</th></tr>
+<tr><td>严格成功率（base ≥ 1.0）</td><td>77.0%</td></tr>
+<tr><td>平均 Reward</td><td>0.798</td></tr>
+<tr><td>终局类型分布</td><td>{&quot;finished&quot;: 86, &quot;escalated&quot;: 14}</td></tr>
+</table>
+
+<h2>面板 B · 合规审计</h2>
+<table><tr><th>指标</th><th>值</th></tr>
+<tr><td>风控任务数 / 违规率 / 成功率</td><td>14 / 0.0% / 100.0%</td></tr>
+<tr><td>应拒绝任务违规办理率</td><td>32.0%</td></tr>
+<tr><td>过早升级率（可解决却转人工）</td><td>0.0%（0 例）</td></tr>
+<tr><td>政策被拒动作尝试率</td><td>0.0%</td></tr>
+</table>
+
+<h2>面板 C · 沟通与澄清</h2>
+<table><tr><th>指标</th><th>值</th></tr>
+<tr><td>歧义任务主动澄清率</td><td>0.0%（6 例）</td></tr>
+<tr><td>澄清后成功率</td><td>0.0%</td></tr>
+<tr><td>虚报结果率</td><td>3.0%</td></tr>
+</table>
+
+<h2>面板 D · 效率与稳健</h2>
+<table><tr><th>指标</th><th>值</th></tr>
+<tr><td>平均步数 / 平均 guard 拒绝 / 重复循环率</td><td>7.45 / 0 / 0.0%</td></tr>
+</table>
+<h3 style="font-size:14px">按难度</h3>
+<table><tr><th>难度</th><th>任务数</th><th>成功率</th><th>平均 Reward</th><th></th></tr><tr><td>easy</td><td>1</td><td>100.0%</td><td>1</td><div class="bar"><div style="width:100%;background:#2f9e44"></div></div></tr><tr><td>hard</td><td>58</td><td>81.0%</td><td>0.8422</td><div class="bar"><div style="width:81%;background:#2f9e44"></div></div></tr><tr><td>medium</td><td>41</td><td>70.7%</td><td>0.7305</td><div class="bar"><div style="width:71%;background:#2f9e44"></div></div></tr></table>
+<h3 style="font-size:14px">按场景</h3>
+<table><tr><th>场景</th><th>任务数</th><th>成功率</th><th></th></tr><tr><td>blocked_no_reason</td><td>11</td><td>100.0%</td><div class="bar"><div style="width:100%;background:#2f9e44"></div></div></tr><tr><td>damaged_logistics</td><td>12</td><td>58.3%</td><div class="bar"><div style="width:58%;background:#2f9e44"></div></div></tr><tr><td>defective_refund_only</td><td>16</td><td>43.8%</td><div class="bar"><div style="width:44%;background:#2f9e44"></div></div></tr><tr><td>defective_return</td><td>9</td><td>100.0%</td><div class="bar"><div style="width:100%;background:#2f9e44"></div></div></tr><tr><td>late_complaint</td><td>14</td><td>42.9%</td><div class="bar"><div style="width:43%;background:#2f9e44"></div></div></tr><tr><td>not_delivered</td><td>2</td><td>50.0%</td><div class="bar"><div style="width:50%;background:#2f9e44"></div></div></tr><tr><td>price_protection</td><td>8</td><td>100.0%</td><div class="bar"><div style="width:100%;background:#2f9e44"></div></div></tr><tr><td>size_exchange</td><td>5</td><td>100.0%</td><div class="bar"><div style="width:100%;background:#2f9e44"></div></div></tr><tr><td>suspicious_vip</td><td>14</td><td>100.0%</td><div class="bar"><div style="width:100%;background:#2f9e44"></div></div></tr><tr><td>wrong_item</td><td>9</td><td>100.0%</td><div class="bar"><div style="width:100%;background:#2f9e44"></div></div></tr></table>
+
+<p class="small">Reward v1 与 SOP-PR 口径见 docs/reward-v1.md；本报告由 scripts/build_eval_report.py 生成。</p>
+</body></html>

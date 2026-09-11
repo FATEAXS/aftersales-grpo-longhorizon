@@ -1,0 +1,449 @@
+[
+ {
+  "product_id": "P0001",
+  "name": "星芒无线蓝牙耳机",
+  "category": "3C数码",
+  "price": 543.54,
+  "options": [
+   "星空白",
+   "薄暮紫",
+   "碳纤黑"
+  ]
+ },
+ {
+  "product_id": "P0002",
+  "name": "BX 智能运动手表",
+  "category": "3C数码",
+  "price": 552.5,
+  "options": [
+   "曜石黑",
+   "流沙金"
+  ]
+ },
+ {
+  "product_id": "P0003",
+  "name": "疾速快充充电宝 2 万毫安",
+  "category": "3C数码",
+  "price": 123.56,
+  "options": [
+   "深海蓝",
+   "磨砂黑"
+  ]
+ },
+ {
+  "product_id": "P0004",
+  "name": "岚声降噪头戴耳机",
+  "category": "3C数码",
+  "price": 1212.5,
+  "options": [
+   "雅灰",
+   "雾松绿"
+  ]
+ },
+ {
+  "product_id": "P0005",
+  "name": "光轴机械键盘 87 键",
+  "category": "3C数码",
+  "price": 628.9,
+  "options": [
+   "白光版",
+   "RGB 版"
+  ]
+ },
+ {
+  "product_id": "P0006",
+  "name": "迷你便携蓝牙音箱",
+  "category": "3C数码",
+  "price": 260.43,
+  "options": [
+   "暮云灰",
+   "活力橙"
+  ]
+ },
+ {
+  "product_id": "P0007",
+  "name": "4K 高清运动相机",
+  "category": "3C数码",
+  "price": 1921.09,
+  "options": [
+   "标准套装",
+   "骑行套装"
+  ]
+ },
+ {
+  "product_id": "P0008",
+  "name": "智能体重体脂秤",
+  "category": "3C数码",
+  "price": 71.85,
+  "options": [
+   "经典黑",
+   "珍珠白"
+  ]
+ },
+ {
+  "product_id": "P0009",
+  "name": "基础款连帽卫衣",
+  "category": "服装鞋帽",
+  "price": 128.34,
+  "options": [
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "product_id": "P0010",
+  "name": "复古水洗牛仔外套",
+  "category": "服装鞋帽",
+  "price": 197.77,
+  "options": [
+   "S",
+   "M",
+   "L"
+  ]
+ },
+ {
+  "product_id": "P0011",
+  "name": "轻弹缓震运动跑鞋",
+  "category": "服装鞋帽",
+  "price": 546.03,
+  "options": [
+   "40 码",
+   "41 码",
+   "42 码",
+   "43 码"
+  ]
+ },
+ {
+  "product_id": "P0012",
+  "name": "双面呢羊毛大衣",
+  "category": "服装鞋帽",
+  "price": 1132.65,
+  "options": [
+   "M",
+   "L",
+   "XL"
+  ]
+ },
+ {
+  "product_id": "P0013",
+  "name": "冰丝防晒衬衫",
+  "category": "服装鞋帽",
+  "price": 144.63,
+  "options": [
+   "M",
+   "L",
+   "XL"
+  ]
+ },
+ {
+  "product_id": "P0014",
+  "name": "户外防风软壳裤",
+  "category": "服装鞋帽",
+  "price": 153.88,
+  "options": [
+   "30",
+   "32",
+   "34"
+  ]
+ },
+ {
+  "product_id": "P0015",
+  "name": "每日坚果混合装 30 包",
+  "category": "食品保健",
+  "price": 133.25,
+  "options": [
+   "标准装",
+   "礼盒装"
+  ]
+ },
+ {
+  "product_id": "P0016",
+  "name": "益生菌固体饮料",
+  "category": "食品保健",
+  "price": 141.91,
+  "options": [
+   "30 条装"
+  ]
+ },
+ {
+  "product_id": "P0017",
+  "name": "意式黑巧克力礼盒",
+  "category": "食品保健",
+  "price": 70.2,
+  "options": [
+   "经典款",
+   "珍藏款"
+  ]
+ },
+ {
+  "product_id": "P0018",
+  "name": "冻干草莓脆 3 袋装",
+  "category": "食品保健",
+  "price": 45.51,
+  "options": [
+   "原味"
+  ]
+ },
+ {
+  "product_id": "P0019",
+  "name": "胶原蛋白肽饮 30 支",
+  "category": "食品保健",
+  "price": 188.85,
+  "options": [
+   "蜜桃味"
+  ]
+ },
+ {
+  "product_id": "P0020",
+  "name": "玻尿酸保湿面霜",
+  "category": "美妆个护",
+  "price": 247.01,
+  "options": [
+   "50g"
+  ]
+ },
+ {
+  "product_id": "P0021",
+  "name": "清爽控油防晒乳",
+  "category": "美妆个护",
+  "price": 223.21,
+  "options": [
+   "60ml"
+  ]
+ },
+ {
+  "product_id": "P0022",
+  "name": "氨基酸修护洗发水",
+  "category": "美妆个护",
+  "price": 156.48,
+  "options": [
+   "400ml",
+   "750ml"
+  ]
+ },
+ {
+  "product_id": "P0023",
+  "name": "烟酰胺身体乳",
+  "category": "美妆个护",
+  "price": 169.33,
+  "options": [
+   "250ml"
+  ]
+ },
+ {
+  "product_id": "P0024",
+  "name": "电动声波牙刷",
+  "category": "美妆个护",
+  "price": 355.67,
+  "options": [
+   "樱粉",
+   "石墨黑"
+  ]
+ },
+ {
+  "product_id": "P0025",
+  "name": "手作陶瓷马克杯",
+  "category": "家居日用",
+  "price": 90.02,
+  "options": [
+   "月白",
+   "黛青"
+  ]
+ },
+ {
+  "product_id": "P0026",
+  "name": "记忆棉慢回弹枕头",
+  "category": "家居日用",
+  "price": 132.91,
+  "options": [
+   "标准款",
+   "加高款"
+  ]
+ },
+ {
+  "product_id": "P0027",
+  "name": "折叠收纳箱三件套",
+  "category": "家居日用",
+  "price": 144.34,
+  "options": [
+   "象牙白",
+   "岩灰"
+  ]
+ },
+ {
+  "product_id": "P0028",
+  "name": "北欧实木边几",
+  "category": "家居日用",
+  "price": 615.68,
+  "options": [
+   "原木色",
+   "胡桃色"
+  ]
+ },
+ {
+  "product_id": "P0029",
+  "name": "加厚珊瑚绒浴巾",
+  "category": "家居日用",
+  "price": 127.0,
+  "options": [
+   "云雾灰",
+   "奶油白"
+  ]
+ },
+ {
+  "product_id": "P0030",
+  "name": "自动感应皂液器",
+  "category": "家居日用",
+  "price": 60.14,
+  "options": [
+   "白色",
+   "香槟金"
+  ]
+ },
+ {
+  "product_id": "P0031",
+  "name": "视频平台黄金会员季卡",
+  "category": "虚拟商品",
+  "price": 65.02,
+  "options": [
+   "季卡"
+  ]
+ },
+ {
+  "product_id": "P0032",
+  "name": "游戏点充值卡 500 点",
+  "category": "虚拟商品",
+  "price": 51.72,
+  "options": [
+   "电子卡"
+  ]
+ },
+ {
+  "product_id": "P0033",
+  "name": "电子购物卡 200 元面值",
+  "category": "虚拟商品",
+  "price": 195.18,
+  "options": [
+   "电子卡"
+  ]
+ },
+ {
+  "product_id": "P0034",
+  "name": "音乐 App 豪华会员年卡",
+  "category": "虚拟商品",
+  "price": 167.32,
+  "options": [
+   "年卡"
+  ]
+ },
+ {
+  "product_id": "P0035",
+  "name": "网盘超级会员月卡",
+  "category": "虚拟商品",
+  "price": 27.18,
+  "options": [
+   "月卡"
+  ]
+ },
+ {
+  "product_id": "P0036",
+  "name": "定制照片抱枕",
+  "category": "定制商品",
+  "price": 85.86,
+  "options": [
+   "单面印",
+   "双面印"
+  ]
+ },
+ {
+  "product_id": "P0037",
+  "name": "刻字实木情侣木梳",
+  "category": "定制商品",
+  "price": 109.27,
+  "options": [
+   "礼盒装",
+   "简装"
+  ]
+ },
+ {
+  "product_id": "P0038",
+  "name": "定制乳胶枕（刻名）",
+  "category": "定制商品",
+  "price": 185.89,
+  "options": [
+   "标准款"
+  ]
+ },
+ {
+  "product_id": "P0039",
+  "name": "定制生肖马克杯",
+  "category": "定制商品",
+  "price": 133.83,
+  "options": [
+   "白瓷",
+   "青瓷"
+  ]
+ },
+ {
+  "product_id": "P0040",
+  "name": "定制拼图 1000 片",
+  "category": "定制商品",
+  "price": 130.87,
+  "options": [
+   "木框装",
+   "简装"
+  ]
+ },
+ {
+  "product_id": "P0041",
+  "name": "婴儿超薄纸尿裤 L 码",
+  "category": "母婴用品",
+  "price": 200.56,
+  "options": [
+   "L 码 68 片"
+  ]
+ },
+ {
+  "product_id": "P0042",
+  "name": "儿童保温学饮杯",
+  "category": "母婴用品",
+  "price": 147.88,
+  "options": [
+   "320ml 蓝色",
+   "320ml 粉色"
+  ]
+ },
+ {
+  "product_id": "P0043",
+  "name": "轻便高景观婴儿推车",
+  "category": "母婴用品",
+  "price": 1870.87,
+  "options": [
+   "雾灰",
+   "米白"
+  ]
+ },
+ {
+  "product_id": "P0044",
+  "name": "婴儿纯棉连体衣",
+  "category": "母婴用品",
+  "price": 145.77,
+  "options": [
+   "59cm",
+   "66cm",
+   "73cm"
+  ]
+ },
+ {
+  "product_id": "P0045",
+  "name": "宝宝辅食研磨碗套装",
+  "category": "母婴用品",
+  "price": 148.01,
+  "options": [
+   "薄荷绿",
+   "奶油黄"
+  ]
+ }
+]

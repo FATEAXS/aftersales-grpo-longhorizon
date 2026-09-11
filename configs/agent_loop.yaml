@@ -1,0 +1,6 @@
+- name: aftersale_tool_agent
+  _target_: aftersales_grpo.training.grpo.adapter.agent_loop.AftersaleToolAgentLoop
+  base_url: ${oc.env:AFTERSALE_BASE_URL,http://127.0.0.1:5800}
+  timeout: 60
+  max_steps: 25
+  reward_process_lambda: ${oc.env:AFTERSALE_PROCESS_LAMBDA,0.5}

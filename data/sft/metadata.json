@@ -1,0 +1,18 @@
+{
+ "teacher": "scripted",
+ "min_reward": 1.0,
+ "raw_trajectories": 400,
+ "accepted": 384,
+ "acceptance_rate": 0.96,
+ "drop_counts": {
+  "below_min_reward": 16
+ },
+ "reward_distribution": {
+  "0.15": 16,
+  "1.0": 384
+ },
+ "train": 346,
+ "validation": 38,
+ "elapsed_seconds": 6.5,
+ "seed_note": "scripted 教师为确定性策略；同种子世界+任务下可逐字节复现"
+}

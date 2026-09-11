@@ -1,0 +1,5602 @@
+[
+ {
+  "user_id": "U00000",
+  "name": "李雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00001",
+  "name": "徐楠",
+  "level": "vip",
+  "refund_count_90d": 13,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00002",
+  "name": "张琪",
+  "level": "vip",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00003",
+  "name": "李琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00004",
+  "name": "陈昊",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00005",
+  "name": "吴彤",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00006",
+  "name": "徐静",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00007",
+  "name": "黄悦",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00008",
+  "name": "王辰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00009",
+  "name": "李晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00010",
+  "name": "黄彤",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00011",
+  "name": "郭峰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00012",
+  "name": "张婷",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00013",
+  "name": "刘浩",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00014",
+  "name": "赵婷",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00015",
+  "name": "徐辰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00016",
+  "name": "吴峰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00017",
+  "name": "郭琪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00018",
+  "name": "吴雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00019",
+  "name": "王琪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00020",
+  "name": "陈雪",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00021",
+  "name": "郭悦",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00022",
+  "name": "何琪",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00023",
+  "name": "张雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00024",
+  "name": "吴浩",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00025",
+  "name": "杨雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00026",
+  "name": "郭悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00027",
+  "name": "孙晓",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00028",
+  "name": "王昊",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00029",
+  "name": "王鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00030",
+  "name": "黄昊",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00031",
+  "name": "赵楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00032",
+  "name": "孙悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00033",
+  "name": "吴楠",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00034",
+  "name": "王悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00035",
+  "name": "何婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00036",
+  "name": "郭辰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00037",
+  "name": "张楠",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00038",
+  "name": "吴鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00039",
+  "name": "周辰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00040",
+  "name": "林彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00041",
+  "name": "赵楠",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00042",
+  "name": "赵浩",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00043",
+  "name": "赵雪",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00044",
+  "name": "张悦",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00045",
+  "name": "孙杰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00046",
+  "name": "何峰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00047",
+  "name": "林彤",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00048",
+  "name": "郭辰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00049",
+  "name": "吴婷",
+  "level": "normal",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00050",
+  "name": "刘静",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00051",
+  "name": "黄悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00052",
+  "name": "郭雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00053",
+  "name": "王晓",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00054",
+  "name": "孙浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00055",
+  "name": "郭晓",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00056",
+  "name": "陈鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00057",
+  "name": "陈杰",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00058",
+  "name": "张悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00059",
+  "name": "周婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00060",
+  "name": "赵婷",
+  "level": "vip",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00061",
+  "name": "王悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00062",
+  "name": "张悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00063",
+  "name": "周峰",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00064",
+  "name": "杨峰",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00065",
+  "name": "王鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00066",
+  "name": "徐浩",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00067",
+  "name": "李婷",
+  "level": "normal",
+  "refund_count_90d": 13,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00068",
+  "name": "周彤",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00069",
+  "name": "何昊",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00070",
+  "name": "王彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00071",
+  "name": "何峰",
+  "level": "vip",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00072",
+  "name": "林昊",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00073",
+  "name": "何雪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00074",
+  "name": "刘雨",
+  "level": "normal",
+  "refund_count_90d": 13,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00075",
+  "name": "黄楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00076",
+  "name": "林楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00077",
+  "name": "徐鑫",
+  "level": "normal",
+  "refund_count_90d": 13,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00078",
+  "name": "徐雨",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00079",
+  "name": "赵雨",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00080",
+  "name": "王杰",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00081",
+  "name": "杨婷",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00082",
+  "name": "王昊",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00083",
+  "name": "黄杰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00084",
+  "name": "黄悦",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00085",
+  "name": "赵婷",
+  "level": "vip",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00086",
+  "name": "刘悦",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00087",
+  "name": "徐雪",
+  "level": "vip",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00088",
+  "name": "吴楠",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00089",
+  "name": "刘彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00090",
+  "name": "杨彤",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00091",
+  "name": "郭杰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00092",
+  "name": "何辰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00093",
+  "name": "李楠",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00094",
+  "name": "林雪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00095",
+  "name": "林婷",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00096",
+  "name": "赵楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00097",
+  "name": "刘彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00098",
+  "name": "杨峰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00099",
+  "name": "郭杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00100",
+  "name": "徐悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00101",
+  "name": "刘鑫",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00102",
+  "name": "林鑫",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00103",
+  "name": "杨晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00104",
+  "name": "赵昊",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00105",
+  "name": "何辰",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00106",
+  "name": "林鑫",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00107",
+  "name": "王琪",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00108",
+  "name": "杨辰",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00109",
+  "name": "孙峰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00110",
+  "name": "郭辰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00111",
+  "name": "黄婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00112",
+  "name": "刘杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00113",
+  "name": "林雨",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00114",
+  "name": "赵雪",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00115",
+  "name": "王晓",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00116",
+  "name": "郭昊",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00117",
+  "name": "陈悦",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00118",
+  "name": "黄彤",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00119",
+  "name": "陈浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00120",
+  "name": "王浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00121",
+  "name": "何杰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00122",
+  "name": "徐杰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00123",
+  "name": "陈鑫",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00124",
+  "name": "赵浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00125",
+  "name": "杨静",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00126",
+  "name": "郭悦",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00127",
+  "name": "陈雪",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00128",
+  "name": "李辰",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00129",
+  "name": "黄静",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00130",
+  "name": "陈静",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00131",
+  "name": "吴昊",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00132",
+  "name": "赵昊",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00133",
+  "name": "赵晓",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00134",
+  "name": "刘雨",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00135",
+  "name": "刘峰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00136",
+  "name": "赵雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00137",
+  "name": "黄琪",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00138",
+  "name": "张浩",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00139",
+  "name": "李辰",
+  "level": "vip",
+  "refund_count_90d": 7,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00140",
+  "name": "李杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00141",
+  "name": "李峰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00142",
+  "name": "王静",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00143",
+  "name": "孙琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00144",
+  "name": "陈鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00145",
+  "name": "赵杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00146",
+  "name": "周彤",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00147",
+  "name": "林昊",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00148",
+  "name": "林悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00149",
+  "name": "何晓",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00150",
+  "name": "刘辰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00151",
+  "name": "李楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00152",
+  "name": "林峰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00153",
+  "name": "张悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00154",
+  "name": "黄悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00155",
+  "name": "孙浩",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00156",
+  "name": "李彤",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00157",
+  "name": "林静",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00158",
+  "name": "徐静",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00159",
+  "name": "何辰",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00160",
+  "name": "王琪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00161",
+  "name": "张婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00162",
+  "name": "王悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00163",
+  "name": "赵彤",
+  "level": "vip",
+  "refund_count_90d": 7,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00164",
+  "name": "陈浩",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00165",
+  "name": "张静",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00166",
+  "name": "黄彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00167",
+  "name": "郭楠",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00168",
+  "name": "徐辰",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00169",
+  "name": "刘楠",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00170",
+  "name": "陈鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00171",
+  "name": "郭浩",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00172",
+  "name": "孙鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00173",
+  "name": "吴彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00174",
+  "name": "李彤",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00175",
+  "name": "赵鑫",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00176",
+  "name": "郭峰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00177",
+  "name": "林彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00178",
+  "name": "刘鑫",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00179",
+  "name": "赵昊",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00180",
+  "name": "赵琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00181",
+  "name": "张杰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00182",
+  "name": "林悦",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00183",
+  "name": "周辰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00184",
+  "name": "何静",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00185",
+  "name": "王雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00186",
+  "name": "杨雪",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00187",
+  "name": "黄婷",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00188",
+  "name": "刘杰",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00189",
+  "name": "孙雪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00190",
+  "name": "李鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00191",
+  "name": "郭楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00192",
+  "name": "刘婷",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00193",
+  "name": "周浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00194",
+  "name": "吴彤",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00195",
+  "name": "赵峰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00196",
+  "name": "何雨",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00197",
+  "name": "李雪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00198",
+  "name": "郭辰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00199",
+  "name": "杨雪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00200",
+  "name": "吴雪",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00201",
+  "name": "陈楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00202",
+  "name": "李彤",
+  "level": "normal",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00203",
+  "name": "何雨",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00204",
+  "name": "周浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00205",
+  "name": "黄彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00206",
+  "name": "陈楠",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00207",
+  "name": "林昊",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00208",
+  "name": "郭琪",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00209",
+  "name": "李杰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00210",
+  "name": "郭峰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00211",
+  "name": "吴鑫",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00212",
+  "name": "刘晓",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00213",
+  "name": "王晓",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00214",
+  "name": "杨悦",
+  "level": "vip",
+  "refund_count_90d": 7,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00215",
+  "name": "徐楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00216",
+  "name": "郭浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00217",
+  "name": "周杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00218",
+  "name": "张琪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00219",
+  "name": "林浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00220",
+  "name": "徐琪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00221",
+  "name": "黄婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00222",
+  "name": "郭浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00223",
+  "name": "吴鑫",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00224",
+  "name": "刘杰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00225",
+  "name": "李辰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00226",
+  "name": "张鑫",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00227",
+  "name": "吴楠",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00228",
+  "name": "陈辰",
+  "level": "normal",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00229",
+  "name": "何浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00230",
+  "name": "杨静",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00231",
+  "name": "刘浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00232",
+  "name": "杨悦",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00233",
+  "name": "黄峰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00234",
+  "name": "王彤",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00235",
+  "name": "陈婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00236",
+  "name": "黄楠",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00237",
+  "name": "孙楠",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00238",
+  "name": "孙悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00239",
+  "name": "徐杰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00240",
+  "name": "林鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00241",
+  "name": "徐婷",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00242",
+  "name": "周鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00243",
+  "name": "刘婷",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00244",
+  "name": "何楠",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00245",
+  "name": "刘杰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00246",
+  "name": "林楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00247",
+  "name": "陈辰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00248",
+  "name": "黄婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00249",
+  "name": "黄彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00250",
+  "name": "李辰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00251",
+  "name": "陈杰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00252",
+  "name": "黄浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00253",
+  "name": "周彤",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00254",
+  "name": "徐婷",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00255",
+  "name": "周悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00256",
+  "name": "林浩",
+  "level": "vip",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00257",
+  "name": "李辰",
+  "level": "vip",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00258",
+  "name": "何晓",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00259",
+  "name": "黄杰",
+  "level": "vip",
+  "refund_count_90d": 13,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00260",
+  "name": "黄雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00261",
+  "name": "张彤",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00262",
+  "name": "林静",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00263",
+  "name": "郭晓",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00264",
+  "name": "周晓",
+  "level": "vip",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00265",
+  "name": "孙杰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00266",
+  "name": "杨楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00267",
+  "name": "郭彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00268",
+  "name": "何晓",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00269",
+  "name": "刘雨",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00270",
+  "name": "张雪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00271",
+  "name": "陈彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00272",
+  "name": "孙峰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00273",
+  "name": "王彤",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00274",
+  "name": "杨峰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00275",
+  "name": "何悦",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00276",
+  "name": "郭晓",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00277",
+  "name": "孙杰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00278",
+  "name": "何彤",
+  "level": "normal",
+  "refund_count_90d": 12,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00279",
+  "name": "张浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00280",
+  "name": "陈彤",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00281",
+  "name": "徐雨",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00282",
+  "name": "郭琪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00283",
+  "name": "陈浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00284",
+  "name": "王雨",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00285",
+  "name": "赵雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00286",
+  "name": "吴雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00287",
+  "name": "林浩",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00288",
+  "name": "何晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00289",
+  "name": "张昊",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00290",
+  "name": "杨悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00291",
+  "name": "赵鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00292",
+  "name": "林琪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00293",
+  "name": "林雨",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00294",
+  "name": "林昊",
+  "level": "vip",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00295",
+  "name": "杨辰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00296",
+  "name": "何杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00297",
+  "name": "杨峰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00298",
+  "name": "李昊",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00299",
+  "name": "周彤",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00300",
+  "name": "赵杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00301",
+  "name": "孙彤",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00302",
+  "name": "徐楠",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00303",
+  "name": "李琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00304",
+  "name": "黄晓",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00305",
+  "name": "吴静",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00306",
+  "name": "陈峰",
+  "level": "vip",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00307",
+  "name": "周婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00308",
+  "name": "何昊",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00309",
+  "name": "孙婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00310",
+  "name": "吴峰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00311",
+  "name": "林楠",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00312",
+  "name": "陈晓",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00313",
+  "name": "郭晓",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00314",
+  "name": "林悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00315",
+  "name": "刘雨",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00316",
+  "name": "徐雨",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00317",
+  "name": "吴浩",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00318",
+  "name": "何楠",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00319",
+  "name": "林琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00320",
+  "name": "王婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00321",
+  "name": "何楠",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00322",
+  "name": "郭楠",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00323",
+  "name": "刘昊",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00324",
+  "name": "王静",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00325",
+  "name": "李楠",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00326",
+  "name": "张晓",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00327",
+  "name": "陈静",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00328",
+  "name": "李婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00329",
+  "name": "孙雨",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00330",
+  "name": "黄雨",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00331",
+  "name": "陈鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00332",
+  "name": "李昊",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00333",
+  "name": "黄峰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00334",
+  "name": "林晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00335",
+  "name": "郭辰",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00336",
+  "name": "徐婷",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00337",
+  "name": "林悦",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00338",
+  "name": "吴静",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00339",
+  "name": "徐静",
+  "level": "vip",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00340",
+  "name": "李婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00341",
+  "name": "何鑫",
+  "level": "vip",
+  "refund_count_90d": 13,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00342",
+  "name": "黄晓",
+  "level": "normal",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00343",
+  "name": "王峰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00344",
+  "name": "杨婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00345",
+  "name": "杨浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00346",
+  "name": "张静",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00347",
+  "name": "黄鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00348",
+  "name": "李昊",
+  "level": "normal",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00349",
+  "name": "李婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00350",
+  "name": "张晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00351",
+  "name": "陈浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00352",
+  "name": "孙峰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00353",
+  "name": "黄婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00354",
+  "name": "王浩",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00355",
+  "name": "吴晓",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00356",
+  "name": "杨雨",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00357",
+  "name": "吴婷",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00358",
+  "name": "孙楠",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00359",
+  "name": "黄晓",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00360",
+  "name": "赵悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00361",
+  "name": "孙昊",
+  "level": "vip",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00362",
+  "name": "赵杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00363",
+  "name": "杨婷",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00364",
+  "name": "杨琪",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00365",
+  "name": "张雨",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00366",
+  "name": "刘雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00367",
+  "name": "王辰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00368",
+  "name": "吴雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00369",
+  "name": "李晓",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00370",
+  "name": "徐辰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00371",
+  "name": "杨静",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00372",
+  "name": "林雪",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00373",
+  "name": "林鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00374",
+  "name": "王鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00375",
+  "name": "赵静",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00376",
+  "name": "徐雪",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00377",
+  "name": "郭彤",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00378",
+  "name": "周彤",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00379",
+  "name": "刘静",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00380",
+  "name": "刘彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00381",
+  "name": "赵婷",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00382",
+  "name": "徐杰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00383",
+  "name": "吴楠",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00384",
+  "name": "吴雨",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00385",
+  "name": "赵杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00386",
+  "name": "王杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00387",
+  "name": "吴楠",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00388",
+  "name": "张辰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00389",
+  "name": "李婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00390",
+  "name": "刘昊",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00391",
+  "name": "徐峰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00392",
+  "name": "杨辰",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00393",
+  "name": "周雪",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00394",
+  "name": "张昊",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00395",
+  "name": "何晓",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00396",
+  "name": "王浩",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00397",
+  "name": "徐琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00398",
+  "name": "郭雪",
+  "level": "vip",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00399",
+  "name": "林晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00400",
+  "name": "黄悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00401",
+  "name": "王彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00402",
+  "name": "林辰",
+  "level": "vip",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00403",
+  "name": "张辰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00404",
+  "name": "何雪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00405",
+  "name": "杨昊",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00406",
+  "name": "周婷",
+  "level": "normal",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00407",
+  "name": "杨杰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00408",
+  "name": "刘彤",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00409",
+  "name": "杨浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00410",
+  "name": "赵鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00411",
+  "name": "黄雨",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00412",
+  "name": "周杰",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00413",
+  "name": "刘昊",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00414",
+  "name": "周楠",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00415",
+  "name": "吴悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00416",
+  "name": "孙雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00417",
+  "name": "张鑫",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00418",
+  "name": "何琪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00419",
+  "name": "李昊",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00420",
+  "name": "郭楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00421",
+  "name": "王彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00422",
+  "name": "王悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00423",
+  "name": "王悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00424",
+  "name": "吴彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00425",
+  "name": "王琪",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00426",
+  "name": "何悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00427",
+  "name": "黄杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00428",
+  "name": "赵悦",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00429",
+  "name": "何晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00430",
+  "name": "孙杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00431",
+  "name": "吴杰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00432",
+  "name": "孙楠",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00433",
+  "name": "李鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00434",
+  "name": "赵静",
+  "level": "vip",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00435",
+  "name": "黄昊",
+  "level": "normal",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00436",
+  "name": "赵鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00437",
+  "name": "徐悦",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00438",
+  "name": "周浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00439",
+  "name": "吴鑫",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00440",
+  "name": "徐婷",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00441",
+  "name": "黄峰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00442",
+  "name": "刘静",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00443",
+  "name": "何婷",
+  "level": "normal",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00444",
+  "name": "陈鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00445",
+  "name": "吴悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00446",
+  "name": "赵彤",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00447",
+  "name": "刘婷",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00448",
+  "name": "杨静",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00449",
+  "name": "杨悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00450",
+  "name": "赵昊",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00451",
+  "name": "何鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00452",
+  "name": "吴雨",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00453",
+  "name": "郭昊",
+  "level": "vip",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00454",
+  "name": "周杰",
+  "level": "vip",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00455",
+  "name": "黄昊",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00456",
+  "name": "杨昊",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00457",
+  "name": "林楠",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00458",
+  "name": "赵雨",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00459",
+  "name": "郭辰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00460",
+  "name": "周悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00461",
+  "name": "刘雨",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00462",
+  "name": "周浩",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00463",
+  "name": "陈雨",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00464",
+  "name": "何静",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00465",
+  "name": "张晓",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00466",
+  "name": "黄晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00467",
+  "name": "张杰",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00468",
+  "name": "陈杰",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00469",
+  "name": "吴雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00470",
+  "name": "林峰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00471",
+  "name": "郭雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00472",
+  "name": "何浩",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00473",
+  "name": "何杰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00474",
+  "name": "赵彤",
+  "level": "vip",
+  "refund_count_90d": 12,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00475",
+  "name": "杨雨",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00476",
+  "name": "刘彤",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00477",
+  "name": "张彤",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00478",
+  "name": "王悦",
+  "level": "vip",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00479",
+  "name": "周雨",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00480",
+  "name": "张静",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00481",
+  "name": "林婷",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00482",
+  "name": "吴浩",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00483",
+  "name": "杨浩",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00484",
+  "name": "徐浩",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00485",
+  "name": "郭昊",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00486",
+  "name": "李杰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00487",
+  "name": "陈琪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00488",
+  "name": "林楠",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00489",
+  "name": "吴悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00490",
+  "name": "陈楠",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00491",
+  "name": "李悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00492",
+  "name": "周雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00493",
+  "name": "李婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00494",
+  "name": "杨静",
+  "level": "normal",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00495",
+  "name": "周琪",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00496",
+  "name": "王雨",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00497",
+  "name": "吴琪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00498",
+  "name": "王彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00499",
+  "name": "杨雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00500",
+  "name": "王杰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00501",
+  "name": "郭鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00502",
+  "name": "王峰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00503",
+  "name": "张晓",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00504",
+  "name": "王晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00505",
+  "name": "黄琪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00506",
+  "name": "何彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00507",
+  "name": "郭悦",
+  "level": "vip",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00508",
+  "name": "林静",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00509",
+  "name": "何雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00510",
+  "name": "徐婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00511",
+  "name": "何杰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00512",
+  "name": "何悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00513",
+  "name": "李浩",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00514",
+  "name": "徐雨",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00515",
+  "name": "徐静",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00516",
+  "name": "孙雨",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00517",
+  "name": "郭雨",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00518",
+  "name": "吴浩",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00519",
+  "name": "陈鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00520",
+  "name": "吴楠",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00521",
+  "name": "何静",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00522",
+  "name": "王琪",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00523",
+  "name": "孙晓",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00524",
+  "name": "孙静",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00525",
+  "name": "周晓",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00526",
+  "name": "李杰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00527",
+  "name": "王静",
+  "level": "vip",
+  "refund_count_90d": 7,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00528",
+  "name": "张静",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00529",
+  "name": "杨辰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00530",
+  "name": "孙辰",
+  "level": "vip",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00531",
+  "name": "吴鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00532",
+  "name": "赵杰",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00533",
+  "name": "徐杰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00534",
+  "name": "杨彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00535",
+  "name": "徐雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00536",
+  "name": "李辰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00537",
+  "name": "刘晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00538",
+  "name": "周雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00539",
+  "name": "徐静",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00540",
+  "name": "李琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00541",
+  "name": "周雪",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00542",
+  "name": "赵静",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00543",
+  "name": "刘雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00544",
+  "name": "周辰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00545",
+  "name": "郭辰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00546",
+  "name": "周雨",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00547",
+  "name": "刘楠",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00548",
+  "name": "吴鑫",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00549",
+  "name": "周昊",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00550",
+  "name": "刘静",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00551",
+  "name": "李杰",
+  "level": "vip",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00552",
+  "name": "孙悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00553",
+  "name": "徐雨",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00554",
+  "name": "杨昊",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U00555",
+  "name": "孙浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00556",
+  "name": "李鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00557",
+  "name": "赵浩",
+  "level": "vip",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00558",
+  "name": "李浩",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00559",
+  "name": "黄悦",
+  "level": "normal",
+  "refund_count_90d": 12,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00560",
+  "name": "徐雨",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00561",
+  "name": "郭浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00562",
+  "name": "王晓",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00563",
+  "name": "杨婷",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00564",
+  "name": "陈琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00565",
+  "name": "孙静",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00566",
+  "name": "杨婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00567",
+  "name": "李昊",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00568",
+  "name": "赵雨",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00569",
+  "name": "郭辰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00570",
+  "name": "张鑫",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00571",
+  "name": "徐楠",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00572",
+  "name": "杨鑫",
+  "level": "vip",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00573",
+  "name": "赵浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00574",
+  "name": "张琪",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00575",
+  "name": "孙婷",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00576",
+  "name": "赵彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00577",
+  "name": "吴浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00578",
+  "name": "王婷",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00579",
+  "name": "徐晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00580",
+  "name": "黄鑫",
+  "level": "vip",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00581",
+  "name": "周琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00582",
+  "name": "王峰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00583",
+  "name": "刘晓",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00584",
+  "name": "吴雨",
+  "level": "vip",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00585",
+  "name": "王雪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00586",
+  "name": "王峰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00587",
+  "name": "周雨",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00588",
+  "name": "吴雪",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00589",
+  "name": "孙雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00590",
+  "name": "张婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00591",
+  "name": "杨峰",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00592",
+  "name": "周峰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00593",
+  "name": "赵辰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00594",
+  "name": "何静",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00595",
+  "name": "王浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00596",
+  "name": "徐昊",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U00597",
+  "name": "林静",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U00598",
+  "name": "杨雪",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U00599",
+  "name": "陈鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09000",
+  "name": "吴琪",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09001",
+  "name": "吴雨",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09002",
+  "name": "张彤",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09003",
+  "name": "徐辰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09004",
+  "name": "张晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09005",
+  "name": "郭浩",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09006",
+  "name": "周晓",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09007",
+  "name": "杨楠",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09008",
+  "name": "吴婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09009",
+  "name": "陈悦",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09010",
+  "name": "黄雨",
+  "level": "normal",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09011",
+  "name": "林晓",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09012",
+  "name": "张浩",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09013",
+  "name": "黄杰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09014",
+  "name": "杨婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09015",
+  "name": "张辰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09016",
+  "name": "刘峰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09017",
+  "name": "刘雪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09018",
+  "name": "赵峰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09019",
+  "name": "徐杰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09020",
+  "name": "吴辰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09021",
+  "name": "陈辰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09022",
+  "name": "陈昊",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09023",
+  "name": "吴悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09024",
+  "name": "张昊",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09025",
+  "name": "何婷",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09026",
+  "name": "周琪",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09027",
+  "name": "徐雪",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09028",
+  "name": "刘静",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09029",
+  "name": "杨峰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09030",
+  "name": "吴婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09031",
+  "name": "周悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09032",
+  "name": "黄浩",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09033",
+  "name": "陈辰",
+  "level": "normal",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09034",
+  "name": "李雨",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09035",
+  "name": "张峰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09036",
+  "name": "王彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09037",
+  "name": "杨彤",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09038",
+  "name": "刘雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09039",
+  "name": "张峰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09040",
+  "name": "徐辰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09041",
+  "name": "赵浩",
+  "level": "normal",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09042",
+  "name": "王峰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09043",
+  "name": "刘浩",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09044",
+  "name": "张峰",
+  "level": "vip",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09045",
+  "name": "孙琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09046",
+  "name": "孙昊",
+  "level": "normal",
+  "refund_count_90d": 12,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09047",
+  "name": "吴雨",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09048",
+  "name": "吴琪",
+  "level": "vip",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09049",
+  "name": "何峰",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09050",
+  "name": "杨昊",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09051",
+  "name": "孙悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09052",
+  "name": "郭婷",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09053",
+  "name": "刘杰",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09054",
+  "name": "张琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09055",
+  "name": "黄静",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09056",
+  "name": "李晓",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09057",
+  "name": "刘静",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09058",
+  "name": "郭楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09059",
+  "name": "刘鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09060",
+  "name": "刘悦",
+  "level": "normal",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09061",
+  "name": "吴琪",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09062",
+  "name": "李晓",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09063",
+  "name": "徐杰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09064",
+  "name": "郭琪",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09065",
+  "name": "陈悦",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09066",
+  "name": "郭悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09067",
+  "name": "黄昊",
+  "level": "vip",
+  "refund_count_90d": 13,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09068",
+  "name": "周琪",
+  "level": "normal",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09069",
+  "name": "徐雨",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09070",
+  "name": "林杰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09071",
+  "name": "林婷",
+  "level": "vip",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09072",
+  "name": "孙彤",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09073",
+  "name": "刘雨",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09074",
+  "name": "王浩",
+  "level": "vip",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09075",
+  "name": "何楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09076",
+  "name": "张昊",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09077",
+  "name": "赵琪",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09078",
+  "name": "王雨",
+  "level": "vip",
+  "refund_count_90d": 12,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09079",
+  "name": "赵晓",
+  "level": "normal",
+  "refund_count_90d": 13,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09080",
+  "name": "黄杰",
+  "level": "vip",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09081",
+  "name": "孙楠",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09082",
+  "name": "赵静",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09083",
+  "name": "周晓",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09084",
+  "name": "孙婷",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09085",
+  "name": "孙雨",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09086",
+  "name": "林昊",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09087",
+  "name": "杨雨",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09088",
+  "name": "赵楠",
+  "level": "normal",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09089",
+  "name": "何浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09090",
+  "name": "黄悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09091",
+  "name": "杨浩",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09092",
+  "name": "林琪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09093",
+  "name": "王悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09094",
+  "name": "林雪",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09095",
+  "name": "孙悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09096",
+  "name": "吴晓",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09097",
+  "name": "徐悦",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09098",
+  "name": "吴晓",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09099",
+  "name": "刘晓",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09100",
+  "name": "徐鑫",
+  "level": "vip",
+  "refund_count_90d": 7,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09101",
+  "name": "郭浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09102",
+  "name": "林杰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09103",
+  "name": "张晓",
+  "level": "vip",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09104",
+  "name": "何婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09105",
+  "name": "孙杰",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09106",
+  "name": "李彤",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09107",
+  "name": "郭婷",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09108",
+  "name": "刘婷",
+  "level": "vip",
+  "refund_count_90d": 12,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09109",
+  "name": "杨晓",
+  "level": "vip",
+  "refund_count_90d": 7,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09110",
+  "name": "吴昊",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09111",
+  "name": "李雪",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09112",
+  "name": "孙婷",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09113",
+  "name": "张浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09114",
+  "name": "刘琪",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09115",
+  "name": "黄婷",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09116",
+  "name": "郭辰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09117",
+  "name": "孙鑫",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09118",
+  "name": "张悦",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09119",
+  "name": "王悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09120",
+  "name": "刘杰",
+  "level": "vip",
+  "refund_count_90d": 7,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09121",
+  "name": "吴婷",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09122",
+  "name": "周悦",
+  "level": "vip",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09123",
+  "name": "杨鑫",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09124",
+  "name": "赵静",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09125",
+  "name": "徐彤",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09126",
+  "name": "黄鑫",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09127",
+  "name": "黄峰",
+  "level": "vip",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09128",
+  "name": "孙鑫",
+  "level": "normal",
+  "refund_count_90d": 13,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09129",
+  "name": "林彤",
+  "level": "vip",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09130",
+  "name": "刘鑫",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09131",
+  "name": "陈峰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09132",
+  "name": "陈悦",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09133",
+  "name": "张静",
+  "level": "normal",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09134",
+  "name": "吴昊",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09135",
+  "name": "何楠",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09136",
+  "name": "何昊",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09137",
+  "name": "何昊",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09138",
+  "name": "杨浩",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09139",
+  "name": "林浩",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09140",
+  "name": "陈峰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09141",
+  "name": "黄彤",
+  "level": "vip",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09142",
+  "name": "陈彤",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09143",
+  "name": "林静",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09144",
+  "name": "李浩",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09145",
+  "name": "孙辰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09146",
+  "name": "陈彤",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09147",
+  "name": "刘悦",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09148",
+  "name": "黄彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09149",
+  "name": "杨婷",
+  "level": "vip",
+  "refund_count_90d": 7,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09150",
+  "name": "刘悦",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09151",
+  "name": "何静",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09152",
+  "name": "李峰",
+  "level": "vip",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09153",
+  "name": "周鑫",
+  "level": "normal",
+  "refund_count_90d": 6,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09154",
+  "name": "黄浩",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09155",
+  "name": "赵雪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09156",
+  "name": "周琪",
+  "level": "normal",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09157",
+  "name": "陈峰",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09158",
+  "name": "何杰",
+  "level": "normal",
+  "refund_count_90d": 12,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09159",
+  "name": "黄雨",
+  "level": "vip",
+  "refund_count_90d": 8,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09160",
+  "name": "杨彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09161",
+  "name": "林晓",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09162",
+  "name": "何晓",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09163",
+  "name": "何悦",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09164",
+  "name": "吴静",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09165",
+  "name": "陈浩",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09166",
+  "name": "王鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09167",
+  "name": "徐楠",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09168",
+  "name": "何峰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09169",
+  "name": "王婷",
+  "level": "vip",
+  "refund_count_90d": 11,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09170",
+  "name": "黄峰",
+  "level": "vip",
+  "refund_count_90d": 7,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09171",
+  "name": "李悦",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09172",
+  "name": "林杰",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09173",
+  "name": "吴浩",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09174",
+  "name": "陈雨",
+  "level": "vip",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09175",
+  "name": "张楠",
+  "level": "vip",
+  "refund_count_90d": 13,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09176",
+  "name": "赵婷",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09177",
+  "name": "王静",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09178",
+  "name": "孙婷",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09179",
+  "name": "何杰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09180",
+  "name": "徐鑫",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09181",
+  "name": "李晓",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09182",
+  "name": "徐琪",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09183",
+  "name": "赵婷",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09184",
+  "name": "徐浩",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09185",
+  "name": "周悦",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09186",
+  "name": "杨辰",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09187",
+  "name": "郭彤",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09188",
+  "name": "孙鑫",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09189",
+  "name": "周楠",
+  "level": "normal",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09190",
+  "name": "陈晓",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09191",
+  "name": "杨悦",
+  "level": "vip",
+  "refund_count_90d": 10,
+  "complaint_count_90d": 3
+ },
+ {
+  "user_id": "U09192",
+  "name": "徐晓",
+  "level": "vip",
+  "refund_count_90d": 2,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09193",
+  "name": "黄昊",
+  "level": "vip",
+  "refund_count_90d": 9,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09194",
+  "name": "刘杰",
+  "level": "vip",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09195",
+  "name": "周鑫",
+  "level": "normal",
+  "refund_count_90d": 3,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09196",
+  "name": "周辰",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 1
+ },
+ {
+  "user_id": "U09197",
+  "name": "黄彤",
+  "level": "normal",
+  "refund_count_90d": 0,
+  "complaint_count_90d": 2
+ },
+ {
+  "user_id": "U09198",
+  "name": "李琪",
+  "level": "normal",
+  "refund_count_90d": 1,
+  "complaint_count_90d": 0
+ },
+ {
+  "user_id": "U09199",
+  "name": "吴雪",
+  "level": "vip",
+  "refund_count_90d": 14,
+  "complaint_count_90d": 1
+ }
+]

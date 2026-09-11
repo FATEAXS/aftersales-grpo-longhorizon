@@ -1,0 +1,400 @@
+{"task_id": "afts-train-0000", "opening_message": "我 30 天前在你家买的手作陶瓷马克杯（订单 O000001），现在支架是松的，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0001", "opening_message": "订单 的手作陶瓷马克杯给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0002", "opening_message": "订单 O000008 的氨基酸修护洗发水给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0003", "opening_message": "你们卖的东西质量也太差了吧！我 11 天前买的迷你便携蓝牙音箱（订单号 O000011），用着用着就右耳没有声音，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0004", "opening_message": "你好，我在咱家买的疾速快充充电宝 2 万毫安，才用了 10 天就无法开机。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0005", "opening_message": "买小了买小了！订单 O000019 的基础款连帽卫衣，XL 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0006", "opening_message": "你好，6 天前买的每日坚果混合装 30 包，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0007", "opening_message": "你们发错货了吧！我订单 O000025 买的双面呢羊毛大衣要的XL，结果发成了M，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0008", "opening_message": "你好，我 4 天前买的智能体重体脂秤（订单 O000029），今天就降价 6.58 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0009", "opening_message": "这才买 6 天，4K 高清运动相机（订单 O000033）就降价 165.67 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0010", "opening_message": "我就是不想要这个视频平台黄金会员季卡了，没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0011", "opening_message": "我 42 天前在你家买的BX 智能运动手表（订单 O000039），现在右耳没有声音，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0012", "opening_message": "你好，订单 O000040 的户外防风软壳裤，我选的规格和收到的不一样，发成32了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0013", "opening_message": "订单 O000043 的氨基酸修护洗发水给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0014", "opening_message": "你们发错货了吧！我订单 O000045 买的双面呢羊毛大衣要的XL，结果发成了L，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0015", "opening_message": "我的每日坚果混合装 30 包呢？！订单 O000048 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0016", "opening_message": "我的益生菌固体饮料呢？！订单 O000051 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0017", "opening_message": "你好，13 天前买的玻尿酸保湿面霜，订单 O000056，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0018", "opening_message": "你好，订单 O000057 的婴儿超薄纸尿裤 L 码最近刻度看不清，买了都 28 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0019", "opening_message": "我 34 天前在你家买的儿童保温学饮杯，现在用了一周就漏水，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0020", "opening_message": "订单 O000065 的星芒无线蓝牙耳机给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0021", "opening_message": "客服你好，订单 的清爽控油防晒乳一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0022", "opening_message": "你好，8 天前买的烟酰胺身体乳，订单 O000070，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0023", "opening_message": "你好，18 天前买的冻干草莓脆 3 袋装，订单 O000076，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0024", "opening_message": "我就是不想要这个电子购物卡 200 元面值了，没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0025", "opening_message": "你好，我收到的岚声降噪头戴耳机（订单 O000081）外箱破损，里面的商品屏幕出现亮点，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0026", "opening_message": "你好，订单 的记忆棉慢回弹枕头，我选的规格和收到的不一样，发成标准款了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0027", "opening_message": "你们发错货了吧！我订单 O000087 买的自动感应皂液器要的香槟金，结果发成了白色，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0028", "opening_message": "我就是不想要这个视频平台黄金会员季卡了（订单 O000091），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0029", "opening_message": "客服你好，我买的每日坚果混合装 30 包，订单号 O000095，打开发现吃到头发，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0030", "opening_message": "你好，订单 O000098 的轻弹缓震运动跑鞋最近有明显的异味，买了都 24 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0031", "opening_message": "我就是不想要这个玻尿酸保湿面霜了（订单 O000102），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0032", "opening_message": "这才买 6 天，BX 智能运动手表（订单 O000107）就降价 41.62 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0033", "opening_message": "气死了，快递给我摔坏了！智能体重体脂秤，订单 O000108，9 天前签收的时候外包装都瘪了，打开一看里面屏幕出现亮点。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0034", "opening_message": "你们发错货了吧！我订单 O000113 买的复古水洗牛仔外套要的M，结果发成了S，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0035", "opening_message": "我 20 天前在你家买的基础款连帽卫衣（订单 O000115），现在有明显的异味，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0036", "opening_message": "你好，我收到的光轴机械键盘 87 键（订单 O000118）外箱破损，里面的商品充电到 80% 就断，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0037", "opening_message": "你们卖的东西质量也太差了吧！我 8 天前买的轻弹缓震运动跑鞋（订单号 O000121），用着用着就有明显的异味，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0038", "opening_message": "你好，我 4 天前买的岚声降噪头戴耳机（订单 O000125），今天就降价 69.45 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0039", "opening_message": "你好，我 1 天前买的疾速快充充电宝 2 万毫安，今天就降价 18.02 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0040", "opening_message": "气死了，快递给我摔坏了！轻便高景观婴儿推车，7 天前签收的时候外包装都瘪了，打开一看里面缝线开线。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0041", "opening_message": "你好，我 6 天前买的BX 智能运动手表（订单 O000132），今天就降价 96.48 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0042", "opening_message": "客服你好，我买的定制乳胶枕（刻名），订单号 ，打开发现刻字刻错了，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0043", "opening_message": "太恶心了，8 前买的意式黑巧克力礼盒（O000136）居然味道不对像变质！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0044", "opening_message": "你好，26 天前买的玻尿酸保湿面霜，订单 O000139，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0045", "opening_message": "你好，10 天前买的意式黑巧克力礼盒，订单 O000140，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0046", "opening_message": "我的冰丝防晒衬衫呢？！订单 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0047", "opening_message": "你好，我 4 天前买的基础款连帽卫衣，L 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0048", "opening_message": "我就是不想要这个每日坚果混合装 30 包了（订单 O000147），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0049", "opening_message": "我买的手作陶瓷马克杯不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0050", "opening_message": "我 26 天前在你家买的迷你便携蓝牙音箱（订单 O000154），现在右耳没有声音，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0051", "opening_message": "你好，我在咱家买的冰丝防晒衬衫，订单 O000157，才用了 12 天就起球起得厉害。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0052", "opening_message": "你好，我收到的智能体重体脂秤外箱破损，里面的商品右耳没有声音，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0053", "opening_message": "我就是不想要这个刻字实木情侣木梳了（订单 O000162），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0054", "opening_message": "你好，我在咱家买的岚声降噪头戴耳机，订单 O000166，才用了 10 天就充电到 80% 就断。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0055", "opening_message": "我就是不想要这个游戏点充值卡 500 点了，没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0056", "opening_message": "我 38 天前在你家买的北欧实木边几（订单 O000173），现在涂层有脱落，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0057", "opening_message": "你好，订单 的自动感应皂液器最近涂层有脱落，买了都 22 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0058", "opening_message": "气死了，快递给我摔坏了！复古水洗牛仔外套，订单 O000179，7 天前签收的时候外包装都瘪了，打开一看里面洗了一次就开线。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0059", "opening_message": "你好，订单 O000182 的手作陶瓷马克杯最近支架是松的，买了都 21 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0060", "opening_message": "我买的轻弹缓震运动跑鞋（订单 O000184）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0061", "opening_message": "我就是不想要这个每日坚果混合装 30 包了，没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0062", "opening_message": "你好，我收到的轻弹缓震运动跑鞋外箱破损，里面的商品掉色掉得严重，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0063", "opening_message": "买小了买小了！订单 的户外防风软壳裤，32 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0064", "opening_message": "你好，订单 O000194 的儿童保温学饮杯最近缝线开线，买了都 21 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0065", "opening_message": "太恶心了，6 前买的轻便高景观婴儿推车（O000198）居然缝线开线！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0066", "opening_message": "气死了，快递给我摔坏了！北欧实木边几，订单 O000201，1 天前签收的时候外包装都瘪了，打开一看里面用到第三天就裂了。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0067", "opening_message": "订单 的双面呢羊毛大衣给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0068", "opening_message": "订单 O000205 的烟酰胺身体乳给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0069", "opening_message": "我 28 天前在你家买的疾速快充充电宝 2 万毫安，现在无法开机，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0070", "opening_message": "你好，我 2 天前买的疾速快充充电宝 2 万毫安（订单 O000211），今天就降价 12.2 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0071", "opening_message": "订单 的玻尿酸保湿面霜给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0072", "opening_message": "你好，我收到的光轴机械键盘 87 键外箱破损，里面的商品右耳没有声音，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0073", "opening_message": "你好，订单 O000219 的记忆棉慢回弹枕头，我选的规格和收到的不一样，发成标准款了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0074", "opening_message": "订单 的清爽控油防晒乳给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0075", "opening_message": "你好，我在咱家买的复古水洗牛仔外套，订单 O000226，才用了 4 天就掉色掉得严重。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0076", "opening_message": "你好，我收到的冰丝防晒衬衫（订单 O000228）外箱破损，里面的商品有明显的异味，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0077", "opening_message": "我买的户外防风软壳裤不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0078", "opening_message": "你好，4 天前买的氨基酸修护洗发水，订单 O000233，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0079", "opening_message": "客服你好，我买的定制拼图 1000 片，订单号 ，打开发现刻字刻错了，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0080", "opening_message": "我的4K 高清运动相机呢？！订单 O000239 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0081", "opening_message": "客服你好，订单 O000242 的意式黑巧克力礼盒一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0082", "opening_message": "你好，我在咱家买的基础款连帽卫衣，订单 O000243，才用了 2 天就有明显的异味。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0083", "opening_message": "你们卖的东西质量也太差了吧！我 8 天前买的星芒无线蓝牙耳机（订单号 O000247），用着用着就右耳没有声音，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0084", "opening_message": "你好，我在咱家买的4K 高清运动相机，才用了 1 天就屏幕出现亮点。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0085", "opening_message": "订单 的光轴机械键盘 87 键给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0086", "opening_message": "我就是不想要这个网盘超级会员月卡了（订单 O000256），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0087", "opening_message": "订单 O000259 的清爽控油防晒乳给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0088", "opening_message": "买小了买小了！订单 的双面呢羊毛大衣，M 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0089", "opening_message": "你好，订单 O000264 的手作陶瓷马克杯最近用到第三天就裂了，买了都 28 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0090", "opening_message": "你好，我在咱家买的折叠收纳箱三件套，订单 O000266，才用了 12 天就用到第三天就裂了。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0091", "opening_message": "太恶心了，10 前买的烟酰胺身体乳（）居然涂上就过敏！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0092", "opening_message": "客服你好，订单 O000272 的清爽控油防晒乳一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0093", "opening_message": "气死了，快递给我摔坏了！迷你便携蓝牙音箱，订单 O000276，2 天前签收的时候外包装都瘪了，打开一看里面屏幕出现亮点。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0094", "opening_message": "我的婴儿超薄纸尿裤 L 码呢？！订单 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0095", "opening_message": "我的烟酰胺身体乳呢？！订单 O000285 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0096", "opening_message": "我就是不想要这个冻干草莓脆 3 袋装了（订单 O000286），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0097", "opening_message": "你好，我在咱家买的加厚珊瑚绒浴巾，才用了 7 天就开关失灵。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0098", "opening_message": "客服你好，我买的清爽控油防晒乳，订单号 ，打开发现是过期的，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0099", "opening_message": "客服你好，我买的定制照片抱枕，订单号 O000296，打开发现和设计稿颜色完全不同，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0100", "opening_message": "我的婴儿超薄纸尿裤 L 码呢？！订单 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0101", "opening_message": "我就是不想要这个视频平台黄金会员季卡了（订单 O000301），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0102", "opening_message": "我就是不想要这个刻字实木情侣木梳了，没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0103", "opening_message": "太恶心了，10 前买的轻便高景观婴儿推车（O000308）居然缝线开线！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0104", "opening_message": "你们发错货了吧！我订单 买的BX 智能运动手表要的流沙金，结果发成了曜石黑，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0105", "opening_message": "你好，我 4 天前买的智能体重体脂秤，今天就降价 6.08 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0106", "opening_message": "我的光轴机械键盘 87 键呢？！订单 O000316 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0107", "opening_message": "买小了买小了！订单 O000318 的冰丝防晒衬衫，M 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0108", "opening_message": "订单 的智能体重体脂秤给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0109", "opening_message": "太恶心了，5 前买的定制拼图 1000 片（O000324）居然收到的有明显破损！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0110", "opening_message": "我 42 天前在你家买的自动感应皂液器（订单 O000329），现在开关失灵，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0111", "opening_message": "太恶心了，1 前买的玻尿酸保湿面霜（O000330）居然是过期的！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0112", "opening_message": "你好，我收到的星芒无线蓝牙耳机外箱破损，里面的商品充电到 80% 就断，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0113", "opening_message": "你好，我在咱家买的复古水洗牛仔外套，订单 O000336，才用了 10 天就有明显的异味。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0114", "opening_message": "我就是不想要这个电动声波牙刷了（订单 O000340），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0115", "opening_message": "你好，我 5 天前买的冰丝防晒衬衫（订单 O000342），L 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0116", "opening_message": "你好，订单 的婴儿超薄纸尿裤 L 码最近有刺鼻气味，买了都 45 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0117", "opening_message": "我买的星芒无线蓝牙耳机不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0118", "opening_message": "你好，订单 O000351 的4K 高清运动相机，我选的规格和收到的不一样，发成骑行套装了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0119", "opening_message": "你好，3 天前买的视频平台黄金会员季卡，订单 O000354，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0120", "opening_message": "我就是不想要这个刻字实木情侣木梳了（订单 O000357），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0121", "opening_message": "你好，1 天前买的意式黑巧克力礼盒，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0122", "opening_message": "你好，23 天前买的冻干草莓脆 3 袋装，订单 O000364，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0123", "opening_message": "这才买 2 天，光轴机械键盘 87 键（订单 O000366）就降价 121.6 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0124", "opening_message": "你好，我在咱家买的自动感应皂液器，订单 O000370，才用了 1 天就用到第三天就裂了。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0125", "opening_message": "你好，我在咱家买的自动感应皂液器，才用了 9 天就开关失灵。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0126", "opening_message": "你好，21 天前买的益生菌固体饮料，订单 O000377，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0127", "opening_message": "太恶心了，5 前买的刻字实木情侣木梳（O000381）居然收到的有明显破损！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0128", "opening_message": "我的每日坚果混合装 30 包呢？！订单 O000383 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0129", "opening_message": "你好，我收到的户外防风软壳裤外箱破损，里面的商品起球起得厉害，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0130", "opening_message": "这才买 3 天，迷你便携蓝牙音箱就降价 51.51 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0131", "opening_message": "我 24 天前在你家买的儿童保温学饮杯（订单 O000393），现在有刺鼻气味，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0132", "opening_message": "客服你好，订单 的每日坚果混合装 30 包一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0133", "opening_message": "你好，我收到的星芒无线蓝牙耳机（订单 O000398）外箱破损，里面的商品屏幕出现亮点，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0134", "opening_message": "气死了，快递给我摔坏了！加厚珊瑚绒浴巾，订单 O000400，1 天前签收的时候外包装都瘪了，打开一看里面开关失灵。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0135", "opening_message": "我 29 天前在你家买的自动感应皂液器，现在涂层有脱落，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0136", "opening_message": "你好，订单 O000404 的北欧实木边几最近用到第三天就裂了，买了都 45 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0137", "opening_message": "你好，订单 O000406 的双面呢羊毛大衣最近有明显的异味，买了都 29 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0138", "opening_message": "你好，我在咱家买的冰丝防晒衬衫，订单 O000409，才用了 7 天就掉色掉得严重。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0139", "opening_message": "订单 的4K 高清运动相机给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0140", "opening_message": "客服你好，订单 O000418 的烟酰胺身体乳一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0141", "opening_message": "我的氨基酸修护洗发水呢？！订单 O000420 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0142", "opening_message": "这才买 4 天，迷你便携蓝牙音箱（订单 O000422）就降价 17.79 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0143", "opening_message": "我的BX 智能运动手表呢？！订单 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0144", "opening_message": "你好，订单 O000430 的婴儿超薄纸尿裤 L 码最近用了一周就漏水，买了都 31 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0145", "opening_message": "你好，我 4 天前买的光轴机械键盘 87 键，今天就降价 57.11 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0146", "opening_message": "你好，我收到的星芒无线蓝牙耳机（订单 O000439）外箱破损，里面的商品屏幕出现亮点，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0147", "opening_message": "买小了买小了！订单 O000440 的户外防风软壳裤，34 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0148", "opening_message": "你好，我收到的户外防风软壳裤（订单 O000444）外箱破损，里面的商品起球起得厉害，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0149", "opening_message": "你们卖的东西质量也太差了吧！我 5 天前买的岚声降噪头戴耳机（订单号 O000447），用着用着就无法开机，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0150", "opening_message": "你好，我 5 天前买的复古水洗牛仔外套，M 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0151", "opening_message": "你们发错货了吧！我订单 O000453 买的星芒无线蓝牙耳机要的薄暮紫，结果发成了星空白，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0152", "opening_message": "我 44 天前在你家买的折叠收纳箱三件套（订单 O000457），现在涂层有脱落，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0153", "opening_message": "你们卖的东西质量也太差了吧！我 12 天前买的基础款连帽卫衣，用着用着就掉色掉得严重，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0154", "opening_message": "我的北欧实木边几呢？！订单 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0155", "opening_message": "太恶心了，10 前买的定制生肖马克杯（O000466）居然刻字刻错了！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0156", "opening_message": "气死了，快递给我摔坏了！冰丝防晒衬衫，11 天前签收的时候外包装都瘪了，打开一看里面洗了一次就开线。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0157", "opening_message": "客服你好，订单 O000472 的烟酰胺身体乳一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0158", "opening_message": "买小了买小了！订单 的双面呢羊毛大衣，L 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0159", "opening_message": "你好，订单 O000477 的星芒无线蓝牙耳机最近充电到 80% 就断，买了都 25 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0160", "opening_message": "你们发错货了吧！我订单 O000479 买的北欧实木边几要的胡桃色，结果发成了原木色，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0161", "opening_message": "这才买 2 天，4K 高清运动相机（订单 O000483）就降价 215.3 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0162", "opening_message": "你好，我 1 天前买的BX 智能运动手表（订单 O000485），今天就降价 48.98 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0163", "opening_message": "我买的基础款连帽卫衣（订单 O000490）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0164", "opening_message": "你好，我 3 天前买的BX 智能运动手表（订单 O000491），今天就降价 80.96 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0165", "opening_message": "你们卖的东西质量也太差了吧！我 9 天前买的记忆棉慢回弹枕头（订单号 O000495），用着用着就开关失灵，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0166", "opening_message": "你好，我在咱家买的户外防风软壳裤，订单 O000500，才用了 9 天就洗了一次就开线。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0167", "opening_message": "你好，我 8 天前买的冰丝防晒衬衫（订单 O000504），XL 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0168", "opening_message": "客服你好，订单 O000507 的双面呢羊毛大衣一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0169", "opening_message": "气死了，快递给我摔坏了！记忆棉慢回弹枕头，订单 O000508，7 天前签收的时候外包装都瘪了，打开一看里面开关失灵。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0170", "opening_message": "我的轻便高景观婴儿推车呢？！订单 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0171", "opening_message": "太恶心了，5 前买的刻字实木情侣木梳（O000514）居然刻字刻错了！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0172", "opening_message": "你好，我 6 天前买的双面呢羊毛大衣（订单 O000518），L 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0173", "opening_message": "气死了，快递给我摔坏了！复古水洗牛仔外套，订单 O000522，2 天前签收的时候外包装都瘪了，打开一看里面掉色掉得严重。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0174", "opening_message": "你好，5 天前买的氨基酸修护洗发水，订单 O000524，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0175", "opening_message": "你好，我 2 天前买的智能体重体脂秤（订单 O000528），今天就降价 12.79 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0176", "opening_message": "我 24 天前在你家买的北欧实木边几（订单 O000531），现在支架是松的，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0177", "opening_message": "你们卖的东西质量也太差了吧！我 10 天前买的光轴机械键盘 87 键（订单号 O000532），用着用着就充电到 80% 就断，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0178", "opening_message": "你好，我在咱家买的迷你便携蓝牙音箱，订单 O000536，才用了 7 天就充电到 80% 就断。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0179", "opening_message": "你好，7 天前买的电动声波牙刷，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0180", "opening_message": "我的记忆棉慢回弹枕头呢？！订单 O000542 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0181", "opening_message": "气死了，快递给我摔坏了！户外防风软壳裤，订单 O000545，2 天前签收的时候外包装都瘪了，打开一看里面起球起得厉害。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0182", "opening_message": "你好，订单 O000549 的基础款连帽卫衣最近起球起得厉害，买了都 28 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0183", "opening_message": "你好，30 天前买的氨基酸修护洗发水，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0184", "opening_message": "客服你好，我买的清爽控油防晒乳，订单号 O000554，打开发现是过期的，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0185", "opening_message": "气死了，快递给我摔坏了！轻便高景观婴儿推车，订单 O000558，1 天前签收的时候外包装都瘪了，打开一看里面刻度看不清。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0186", "opening_message": "你好，10 天前买的游戏点充值卡 500 点，订单 O000560，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0187", "opening_message": "你们卖的东西质量也太差了吧！我 6 天前买的BX 智能运动手表，用着用着就右耳没有声音，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0188", "opening_message": "你好，订单 O000570 的户外防风软壳裤，我选的规格和收到的不一样，发成30了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0189", "opening_message": "你好，我 4 天前买的基础款连帽卫衣（订单 O000572），L 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0190", "opening_message": "我 41 天前在你家买的户外防风软壳裤，现在有明显的异味，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0191", "opening_message": "我 32 天前在你家买的自动感应皂液器，现在用到第三天就裂了，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0192", "opening_message": "订单 O000582 的电动声波牙刷给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0193", "opening_message": "你好，17 天前买的氨基酸修护洗发水，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0194", "opening_message": "你们卖的东西质量也太差了吧！我 2 天前买的BX 智能运动手表，用着用着就充电到 80% 就断，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0195", "opening_message": "客服你好，我买的胶原蛋白肽饮 30 支，订单号 O000592，打开发现包装袋是漏气的，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0196", "opening_message": "订单 O000596 的加厚珊瑚绒浴巾给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0197", "opening_message": "客服你好，我买的轻便高景观婴儿推车，订单号 O000600，打开发现缝线开线，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0198", "opening_message": "你们卖的东西质量也太差了吧！我 10 天前买的冰丝防晒衬衫（订单号 O000602），用着用着就洗了一次就开线，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0199", "opening_message": "你好，1 天前买的烟酰胺身体乳，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0200", "opening_message": "客服你好，订单 O000609 的轻便高景观婴儿推车一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0201", "opening_message": "你好，我 2 天前买的基础款连帽卫衣（订单 O000610），XXL 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0202", "opening_message": "订单 的折叠收纳箱三件套给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0203", "opening_message": "你好，我收到的轻便高景观婴儿推车（订单 O000617）外箱破损，里面的商品刻度看不清，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0204", "opening_message": "你好，我收到的星芒无线蓝牙耳机外箱破损，里面的商品充电到 80% 就断，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0205", "opening_message": "你们卖的东西质量也太差了吧！我 2 天前买的自动感应皂液器（订单号 O000622），用着用着就用到第三天就裂了，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0206", "opening_message": "你好，我收到的自动感应皂液器外箱破损，里面的商品用到第三天就裂了，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0207", "opening_message": "买小了买小了！订单 O000625 的户外防风软壳裤，34 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0208", "opening_message": "你好，我 6 天前买的冰丝防晒衬衫（订单 O000629），L 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0209", "opening_message": "这才买 2 天，星芒无线蓝牙耳机（订单 O000632）就降价 30.55 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0210", "opening_message": "我 34 天前在你家买的婴儿超薄纸尿裤 L 码（订单 O000635），现在有刺鼻气味，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0211", "opening_message": "你好，我 6 天前买的双面呢羊毛大衣（订单 O000638），L 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0212", "opening_message": "你好，订单 O000642 的岚声降噪头戴耳机，我选的规格和收到的不一样，发成雅灰了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0213", "opening_message": "我的加厚珊瑚绒浴巾呢？！订单 O000648 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0214", "opening_message": "我买的玻尿酸保湿面霜（订单 O000649）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0215", "opening_message": "你好，我 2 天前买的迷你便携蓝牙音箱（订单 O000651），今天就降价 28.03 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0216", "opening_message": "客服你好，我买的定制生肖马克杯，订单号 O000655，打开发现和设计稿颜色完全不同，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0217", "opening_message": "你好，我收到的婴儿纯棉连体衣外箱破损，里面的商品刻度看不清，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0218", "opening_message": "你好，我收到的冰丝防晒衬衫（订单 O000661）外箱破损，里面的商品有明显的异味，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0219", "opening_message": "气死了，快递给我摔坏了！光轴机械键盘 87 键，订单 O000664，4 天前签收的时候外包装都瘪了，打开一看里面右耳没有声音。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0220", "opening_message": "你好，我 2 天前买的复古水洗牛仔外套（订单 O000667），L 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0221", "opening_message": "你们发错货了吧！我订单 O000670 买的手作陶瓷马克杯要的月白，结果发成了黛青，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0222", "opening_message": "你好，我收到的岚声降噪头戴耳机外箱破损，里面的商品充电到 80% 就断，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0223", "opening_message": "你好，我 5 天前买的BX 智能运动手表（订单 O000676），今天就降价 71.37 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0224", "opening_message": "你好，订单 的婴儿纯棉连体衣最近用了一周就漏水，买了都 45 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0225", "opening_message": "我就是不想要这个电动声波牙刷了（订单 O000683），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0226", "opening_message": "这才买 4 天，岚声降噪头戴耳机（订单 O000685）就降价 149.58 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0227", "opening_message": "我就是不想要这个胶原蛋白肽饮 30 支了，没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0228", "opening_message": "我买的记忆棉慢回弹枕头（订单 O000691）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0229", "opening_message": "这才买 4 天，星芒无线蓝牙耳机就降价 32.95 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0230", "opening_message": "我就是不想要这个烟酰胺身体乳了（订单 O000698），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0231", "opening_message": "我 27 天前在你家买的轻弹缓震运动跑鞋（订单 O000701），现在洗了一次就开线，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0232", "opening_message": "我买的双面呢羊毛大衣（订单 O000704）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0233", "opening_message": "你们卖的东西质量也太差了吧！我 4 天前买的迷你便携蓝牙音箱，用着用着就无法开机，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0234", "opening_message": "你好，我收到的手作陶瓷马克杯外箱破损，里面的商品用到第三天就裂了，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0235", "opening_message": "我的宝宝辅食研磨碗套装呢？！订单 O000712 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0236", "opening_message": "你好，我在咱家买的智能体重体脂秤，订单 O000715，才用了 9 天就无法开机。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0237", "opening_message": "我的冻干草莓脆 3 袋装呢？！订单 O000719 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0238", "opening_message": "你们发错货了吧！我订单 O000722 买的加厚珊瑚绒浴巾要的云雾灰，结果发成了奶油白，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0239", "opening_message": "这才买 3 天，光轴机械键盘 87 键（订单 O000724）就降价 120.32 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0240", "opening_message": "客服你好，我买的定制拼图 1000 片，订单号 O000728，打开发现和设计稿颜色完全不同，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0241", "opening_message": "气死了，快递给我摔坏了！婴儿纯棉连体衣，订单 O000730，2 天前签收的时候外包装都瘪了，打开一看里面刻度看不清。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0242", "opening_message": "买小了买小了！订单 的复古水洗牛仔外套，L 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0243", "opening_message": "你好，我在咱家买的折叠收纳箱三件套，订单 O000737，才用了 1 天就用到第三天就裂了。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0244", "opening_message": "你好，我收到的自动感应皂液器（订单 O000741）外箱破损，里面的商品涂层有脱落，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0245", "opening_message": "买小了买小了！订单 O000745 的复古水洗牛仔外套，M 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0246", "opening_message": "你好，我收到的记忆棉慢回弹枕头（订单 O000747）外箱破损，里面的商品用到第三天就裂了，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0247", "opening_message": "我就是不想要这个音乐 App 豪华会员年卡了，没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0248", "opening_message": "太恶心了，10 前买的每日坚果混合装 30 包（O000753）居然包装袋是漏气的！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0249", "opening_message": "你好，订单 O000757 的户外防风软壳裤，我选的规格和收到的不一样，发成32了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0250", "opening_message": "气死了，快递给我摔坏了！手作陶瓷马克杯，6 天前签收的时候外包装都瘪了，打开一看里面涂层有脱落。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0251", "opening_message": "你好，我 1 天前买的岚声降噪头戴耳机（订单 O000764），今天就降价 103.24 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0252", "opening_message": "你好，我在咱家买的冰丝防晒衬衫，订单 O000766，才用了 8 天就有明显的异味。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0253", "opening_message": "我就是不想要这个电动声波牙刷了（订单 O000772），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0254", "opening_message": "你们卖的东西质量也太差了吧！我 11 天前买的折叠收纳箱三件套（订单号 O000773），用着用着就用到第三天就裂了，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0255", "opening_message": "买小了买小了！订单 的复古水洗牛仔外套，S 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0256", "opening_message": "我买的户外防风软壳裤（订单 O000780）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0257", "opening_message": "我买的玻尿酸保湿面霜不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0258", "opening_message": "我 27 天前在你家买的轻弹缓震运动跑鞋，现在有明显的异味，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0259", "opening_message": "订单 的户外防风软壳裤给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0260", "opening_message": "你好，我在咱家买的迷你便携蓝牙音箱，订单 O000794，才用了 5 天就右耳没有声音。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0261", "opening_message": "我 45 天前在你家买的北欧实木边几（订单 O000796），现在开关失灵，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0262", "opening_message": "你好，21 天前买的冻干草莓脆 3 袋装，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0263", "opening_message": "太恶心了，4 前买的冻干草莓脆 3 袋装（O000804）居然发霉了！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0264", "opening_message": "我买的岚声降噪头戴耳机不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0265", "opening_message": "太恶心了，1 前买的胶原蛋白肽饮 30 支（O000808）居然味道不对像变质！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0266", "opening_message": "你好，订单 的冰丝防晒衬衫，我选的规格和收到的不一样，发成M了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0267", "opening_message": "你们发错货了吧！我订单 O000816 买的光轴机械键盘 87 键要的白光版，结果发成了RGB 版，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0268", "opening_message": "我就是不想要这个网盘超级会员月卡了（订单 O000819），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0269", "opening_message": "客服你好，我买的益生菌固体饮料，订单号 O000824，打开发现吃到头发，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0270", "opening_message": "你好，订单 O000825 的北欧实木边几，我选的规格和收到的不一样，发成原木色了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0271", "opening_message": "客服你好，订单 O000827 的宝宝辅食研磨碗套装一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0272", "opening_message": "客服你好，我买的定制乳胶枕（刻名），订单号 O000829，打开发现收到的有明显破损，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0273", "opening_message": "你好，我在咱家买的双面呢羊毛大衣，才用了 1 天就起球起得厉害。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0274", "opening_message": "你好，订单 O000836 的加厚珊瑚绒浴巾最近涂层有脱落，买了都 36 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0275", "opening_message": "你好，12 天前买的意式黑巧克力礼盒，订单 O000840，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0276", "opening_message": "你好，我 10 天前买的基础款连帽卫衣（订单 O000841），L 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0277", "opening_message": "我就是不想要这个每日坚果混合装 30 包了（订单 O000844），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0278", "opening_message": "订单 O000847 的复古水洗牛仔外套给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0279", "opening_message": "你好，我收到的智能体重体脂秤（订单 O000849）外箱破损，里面的商品屏幕出现亮点，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0280", "opening_message": "订单 的岚声降噪头戴耳机给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0281", "opening_message": "客服你好，订单 O000855 的每日坚果混合装 30 包一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0282", "opening_message": "你们发错货了吧！我订单 O000857 买的户外防风软壳裤要的34，结果发成了30，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0283", "opening_message": "你好，订单 O000859 的宝宝辅食研磨碗套装最近刻度看不清，买了都 30 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0284", "opening_message": "你好，19 天前买的益生菌固体饮料，订单 O000863，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0285", "opening_message": "你们卖的东西质量也太差了吧！我 3 天前买的记忆棉慢回弹枕头（订单号 O000868），用着用着就涂层有脱落，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0286", "opening_message": "你好，我在咱家买的户外防风软壳裤，订单 O000871，才用了 9 天就掉色掉得严重。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0287", "opening_message": "客服你好，我买的意式黑巧克力礼盒，订单号 O000872，打开发现味道不对像变质，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0288", "opening_message": "太恶心了，9 前买的每日坚果混合装 30 包（O000875）居然吃到头发！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0289", "opening_message": "我买的基础款连帽卫衣（订单 O000878）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0290", "opening_message": "客服你好，我买的氨基酸修护洗发水，订单号 O000881，打开发现瓶口漏液，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0291", "opening_message": "你好，17 天前买的刻字实木情侣木梳，订单 O000885，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0292", "opening_message": "客服你好，我买的定制生肖马克杯，订单号 O000888，打开发现收到的有明显破损，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0293", "opening_message": "客服你好，订单 的婴儿纯棉连体衣一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0294", "opening_message": "订单 O000895 的玻尿酸保湿面霜给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0295", "opening_message": "你们卖的东西质量也太差了吧！我 3 天前买的疾速快充充电宝 2 万毫安（订单号 O000899），用着用着就无法开机，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0296", "opening_message": "太恶心了，10 前买的烟酰胺身体乳（）居然涂上就过敏！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0297", "opening_message": "我的双面呢羊毛大衣呢？！订单 O000908 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0298", "opening_message": "我的手作陶瓷马克杯呢？！订单 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0299", "opening_message": "你好，我收到的复古水洗牛仔外套（订单 O000912）外箱破损，里面的商品掉色掉得严重，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0300", "opening_message": "你好，25 天前买的定制拼图 1000 片，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0301", "opening_message": "你好，24 天前买的定制照片抱枕，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0302", "opening_message": "这才买 2 天，迷你便携蓝牙音箱（订单 O000922）就降价 19.11 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0303", "opening_message": "你好，我在咱家买的记忆棉慢回弹枕头，才用了 5 天就支架是松的。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0304", "opening_message": "我的手作陶瓷马克杯呢？！订单 O000929 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0305", "opening_message": "客服你好，我买的冻干草莓脆 3 袋装，订单号 O000931，打开发现包装袋是漏气的，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0306", "opening_message": "我买的折叠收纳箱三件套（订单 O000934）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0307", "opening_message": "你们卖的东西质量也太差了吧！我 8 天前买的迷你便携蓝牙音箱（订单号 O000936），用着用着就无法开机，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0308", "opening_message": "你好，我 6 天前买的智能体重体脂秤（订单 O000940），今天就降价 7.41 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0309", "opening_message": "你好，我 2 天前买的户外防风软壳裤，30 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0310", "opening_message": "我就是不想要这个冻干草莓脆 3 袋装了，没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0311", "opening_message": "你好，17 天前买的视频平台黄金会员季卡，订单 O000951，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0312", "opening_message": "你们卖的东西质量也太差了吧！我 8 天前买的星芒无线蓝牙耳机，用着用着就无法开机，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0313", "opening_message": "我就是不想要这个游戏点充值卡 500 点了，没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0314", "opening_message": "买小了买小了！订单 O000959 的户外防风软壳裤，30 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0315", "opening_message": "你好，9 天前买的电子购物卡 200 元面值，订单 O000962，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0316", "opening_message": "我的轻弹缓震运动跑鞋呢？！订单 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0317", "opening_message": "你们卖的东西质量也太差了吧！我 5 天前买的迷你便携蓝牙音箱，用着用着就充电到 80% 就断，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0318", "opening_message": "你好，我 1 天前买的疾速快充充电宝 2 万毫安，今天就降价 18.01 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0319", "opening_message": "你好，我在咱家买的智能体重体脂秤，订单 O000972，才用了 1 天就右耳没有声音。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0320", "opening_message": "你们卖的东西质量也太差了吧！我 5 天前买的疾速快充充电宝 2 万毫安（订单号 O000975），用着用着就充电到 80% 就断，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0321", "opening_message": "你好，我收到的光轴机械键盘 87 键（订单 O000978）外箱破损，里面的商品右耳没有声音，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0322", "opening_message": "客服你好，我买的烟酰胺身体乳，订单号 ，打开发现涂上就过敏，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0323", "opening_message": "买小了买小了！订单 的基础款连帽卫衣，XL 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0324", "opening_message": "客服你好，我买的定制乳胶枕（刻名），订单号 ，打开发现和设计稿颜色完全不同，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0325", "opening_message": "你好，我 3 天前买的双面呢羊毛大衣（订单 O000990），XL 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0326", "opening_message": "气死了，快递给我摔坏了！加厚珊瑚绒浴巾，订单 O000993，2 天前签收的时候外包装都瘪了，打开一看里面用到第三天就裂了。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0327", "opening_message": "你们发错货了吧！我订单 O000995 买的记忆棉慢回弹枕头要的标准款，结果发成了加高款，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0328", "opening_message": "你们发错货了吧！我订单 O001000 买的自动感应皂液器要的香槟金，结果发成了白色，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0329", "opening_message": "客服你好，订单 O001001 的双面呢羊毛大衣一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0330", "opening_message": "你们卖的东西质量也太差了吧！我 1 天前买的双面呢羊毛大衣（订单号 O001005），用着用着就洗了一次就开线，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0331", "opening_message": "太恶心了，6 前买的定制乳胶枕（刻名）（O001009）居然刻字刻错了！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0332", "opening_message": "我的疾速快充充电宝 2 万毫安呢？！订单 O001011 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0333", "opening_message": "你好，我 10 天前买的轻弹缓震运动跑鞋（订单 O001017），42 码 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0334", "opening_message": "你好，订单 O001021 的岚声降噪头戴耳机，我选的规格和收到的不一样，发成雅灰了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0335", "opening_message": "你好，我在咱家买的智能体重体脂秤，才用了 8 天就屏幕出现亮点。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0336", "opening_message": "你们发错货了吧！我订单 O001026 买的北欧实木边几要的胡桃色，结果发成了原木色，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0337", "opening_message": "我 44 天前在你家买的儿童保温学饮杯，现在刻度看不清，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0338", "opening_message": "你好，20 天前买的电动声波牙刷，订单 O001035，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0339", "opening_message": "订单 O001036 的光轴机械键盘 87 键给我退款，理由就是我不想要了，赶紧的，我赶时间。", "max_steps": 25}
+{"task_id": "afts-train-0340", "opening_message": "我的清爽控油防晒乳呢？！订单 O001040 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0341", "opening_message": "我买的复古水洗牛仔外套（订单 O001044）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0342", "opening_message": "我买的清爽控油防晒乳（订单 O001050）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0343", "opening_message": "我就是不想要这个意式黑巧克力礼盒了（订单 O001052），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0344", "opening_message": "太恶心了，1 前买的电动声波牙刷（O001055）居然涂上就过敏！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0345", "opening_message": "我就是不想要这个刻字实木情侣木梳了（订单 O001059），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0346", "opening_message": "我 41 天前在你家买的婴儿超薄纸尿裤 L 码（订单 O001063），现在缝线开线，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0347", "opening_message": "买小了买小了！订单 O001067 的双面呢羊毛大衣，L 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0348", "opening_message": "我买的折叠收纳箱三件套（订单 O001070）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0349", "opening_message": "你好，我 5 天前买的疾速快充充电宝 2 万毫安（订单 O001073），今天就降价 7.53 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0350", "opening_message": "我 20 天前在你家买的双面呢羊毛大衣（订单 O001074），现在有明显的异味，虽然过了挺久，但这肯定是质量问题，你们必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0351", "opening_message": "我就是不想要这个游戏点充值卡 500 点了，没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0352", "opening_message": "你们发错货了吧！我订单 O001078 买的记忆棉慢回弹枕头要的加高款，结果发成了标准款，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0353", "opening_message": "你好，我 5 天前买的岚声降噪头戴耳机（订单 O001082），今天就降价 69.56 元了！不是有价保吗，把差价退我。", "max_steps": 25}
+{"task_id": "afts-train-0354", "opening_message": "我就是不想要这个胶原蛋白肽饮 30 支了（订单 O001085），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0355", "opening_message": "客服你好，我买的定制乳胶枕（刻名），订单号 ，打开发现和设计稿颜色完全不同，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0356", "opening_message": "客服你好，订单 O001093 的玻尿酸保湿面霜一直显示滞留，我下周就要用了，等不到发货了，帮我退款，我重新买。", "max_steps": 25}
+{"task_id": "afts-train-0357", "opening_message": "你好，15 天前买的意式黑巧克力礼盒，订单 O001097，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0358", "opening_message": "气死了，快递给我摔坏了！轻弹缓震运动跑鞋，订单 O001101，11 天前签收的时候外包装都瘪了，打开一看里面掉色掉得严重。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0359", "opening_message": "你好，我 10 天前买的复古水洗牛仔外套（订单 O001103），L 码穿着不合适，能帮我换个合适的尺码吗？", "max_steps": 25}
+{"task_id": "afts-train-0360", "opening_message": "我就是不想要这个意式黑巧克力礼盒了，没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0361", "opening_message": "我买的加厚珊瑚绒浴巾（订单 O001108）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0362", "opening_message": "你们卖的东西质量也太差了吧！我 9 天前买的折叠收纳箱三件套，用着用着就涂层有脱落，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0363", "opening_message": "你好，我收到的4K 高清运动相机外箱破损，里面的商品无法开机，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0364", "opening_message": "气死了，快递给我摔坏了！折叠收纳箱三件套，订单 O001117，4 天前签收的时候外包装都瘪了，打开一看里面用到第三天就裂了。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0365", "opening_message": "你们卖的东西质量也太差了吧！我 9 天前买的基础款连帽卫衣（订单号 O001121），用着用着就洗了一次就开线，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0366", "opening_message": "你好，7 天前买的电动声波牙刷，订单 O001125，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0367", "opening_message": "太恶心了，10 前买的婴儿超薄纸尿裤 L 码（O001129）居然用了一周就漏水！这种东西我还退回去干嘛，直接给我退款！", "max_steps": 25}
+{"task_id": "afts-train-0368", "opening_message": "我的疾速快充充电宝 2 万毫安呢？！订单 O001130 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0369", "opening_message": "这才买 5 天，疾速快充充电宝 2 万毫安（订单 O001132）就降价 23.22 块，价保期内给我补个差价呗。", "max_steps": 25}
+{"task_id": "afts-train-0370", "opening_message": "我的婴儿超薄纸尿裤 L 码呢？！订单 O001137 都下单快两周了还在运输中，物流好几天不动了，我等不了了，退款吧！", "max_steps": 25}
+{"task_id": "afts-train-0371", "opening_message": "我就是不想要这个音乐 App 豪华会员年卡了（订单 O001138），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0372", "opening_message": "客服你好，我买的刻字实木情侣木梳，订单号 O001143，打开发现和设计稿颜色完全不同，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0373", "opening_message": "你好，24 天前买的清爽控油防晒乳，订单 O001144，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0374", "opening_message": "你好，我在咱家买的户外防风软壳裤，才用了 8 天就掉色掉得严重。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0375", "opening_message": "你们发错货了吧！我订单 O001150 买的BX 智能运动手表要的流沙金，结果发成了曜石黑，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0376", "opening_message": "买小了买小了！订单 O001154 的复古水洗牛仔外套，L 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0377", "opening_message": "你们卖的东西质量也太差了吧！我 6 天前买的BX 智能运动手表，用着用着就充电到 80% 就断，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0378", "opening_message": "买小了买小了！订单 O001160 的户外防风软壳裤，32 码我穿不上，麻烦帮我换大一码，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0379", "opening_message": "你好，我在咱家买的折叠收纳箱三件套，订单 O001161，才用了 6 天就用到第三天就裂了。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0380", "opening_message": "你好，我在咱家买的光轴机械键盘 87 键，才用了 8 天就充电到 80% 就断。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0381", "opening_message": "气死了，快递给我摔坏了！双面呢羊毛大衣，1 天前签收的时候外包装都瘪了，打开一看里面洗了一次就开线。你们快递的问题必须给我退！", "max_steps": 25}
+{"task_id": "afts-train-0382", "opening_message": "客服你好，我买的定制照片抱枕，订单号 O001175，打开发现刻字刻错了，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0383", "opening_message": "你好，13 天前买的定制照片抱枕，订单 O001176，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0384", "opening_message": "你们发错货了吧！我订单 O001178 买的手作陶瓷马克杯要的黛青，结果发成了月白，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0385", "opening_message": "你好，11 天前买的游戏点充值卡 500 点，订单 O001182，现在不想要了，帮我办理退货退款，谢谢。", "max_steps": 25}
+{"task_id": "afts-train-0386", "opening_message": "你们卖的东西质量也太差了吧！我 12 天前买的岚声降噪头戴耳机（订单号 O001183），用着用着就右耳没有声音，这就是你们的质量？给我退货退款，不然投诉到底！", "max_steps": 25}
+{"task_id": "afts-train-0387", "opening_message": "你好，订单 O001185 的自动感应皂液器，我选的规格和收到的不一样，发成香槟金了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0388", "opening_message": "你们发错货了吧！我订单 O001189 买的冰丝防晒衬衫要的XL，结果发成了L，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0389", "opening_message": "我就是不想要这个冻干草莓脆 3 袋装了（订单 O001191），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0390", "opening_message": "你们发错货了吧！我订单 买的冰丝防晒衬衫要的M，结果发成了XL，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0391", "opening_message": "客服你好，我买的婴儿超薄纸尿裤 L 码，订单号 O001199，打开发现缝线开线，食品/用品类的问题商品我不方便寄回，你们直接退款就行了吧？", "max_steps": 25}
+{"task_id": "afts-train-0392", "opening_message": "你好，我在咱家买的自动感应皂液器，订单 O001201，才用了 4 天就开关失灵。这明显是质量问题吧？帮我办一下退货。", "max_steps": 25}
+{"task_id": "afts-train-0393", "opening_message": "你好，我收到的双面呢羊毛大衣（订单 O001205）外箱破损，里面的商品起球起得厉害，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0394", "opening_message": "我就是不想要这个视频平台黄金会员季卡了（订单 O001208），没拆没用，七天无理由给我退了吧！", "max_steps": 25}
+{"task_id": "afts-train-0395", "opening_message": "你们发错货了吧！我订单 O001214 买的冰丝防晒衬衫要的M，结果发成了L，要么给我换，要么退了！", "max_steps": 25}
+{"task_id": "afts-train-0396", "opening_message": "你好，我收到的折叠收纳箱三件套（订单 O001215）外箱破损，里面的商品开关失灵，应该是运输损坏，帮我处理下退货吧。", "max_steps": 25}
+{"task_id": "afts-train-0397", "opening_message": "你好，订单 O001218 的4K 高清运动相机，我选的规格和收到的不一样，发成骑行套装了，帮我换货吧。", "max_steps": 25}
+{"task_id": "afts-train-0398", "opening_message": "我买的记忆棉慢回弹枕头（订单 O001221）不想要了，直接给我退款就行，不用问那么多，快点。", "max_steps": 25}
+{"task_id": "afts-train-0399", "opening_message": "你好，订单 O001222 的冰丝防晒衬衫最近掉色掉得严重，买了都 31 天了还能找你们售后吗？给我退货吧。", "max_steps": 25}

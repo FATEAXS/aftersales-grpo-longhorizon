@@ -1,0 +1,107 @@
+{
+ "actor": "aftersale",
+ "total_tasks": 100,
+ "not_judged": 0,
+ "panel_a_terminal": {
+  "strict_success_rate": 0.28,
+  "mean_reward": 0.0535,
+  "terminal_types": {
+   "finished": 94,
+   "escalated": 6
+  },
+  "base_reasons": {
+   "unknown": 23,
+   "resolved_as:refund_only_full": 8,
+   "hangup_without_resolution": 16,
+   "rejected_with_explanation": 4,
+   "resolved_as:return_refund": 7,
+   "ineligible_but_action_taken": 12,
+   "suspicious_user_action_approved": 8,
+   "resolved_as:refund_partial": 4,
+   "premature_escalation": 1,
+   "resolved_as:exchange": 8,
+   "ineligible_unresolved": 5,
+   "resolvable_but_rejected": 4
+  }
+ },
+ "panel_b_compliance": {
+  "redline_tasks": 14,
+  "redline_violation_rate": 0.5714,
+  "redline_success_rate": 0.0,
+  "ineligible_action_rate": 0.48,
+  "ineligible_success_rate": 0.16,
+  "premature_escalation_count": 1,
+  "premature_escalation_rate": 0.0164,
+  "policy_attempt_rate": 0.11
+ },
+ "panel_c_communication": {
+  "clarification_tasks": 6,
+  "clarification_ask_rate": 0.0,
+  "clarification_success_rate": 0.0,
+  "misreport_rate": 0.21
+ },
+ "panel_d_efficiency": {
+  "mean_steps": 7.88,
+  "mean_guard_rejections": 0.0,
+  "repeat_loop_rate": 0.0,
+  "by_difficulty": {
+   "medium": {
+    "total": 41,
+    "success_rate": 0.439,
+    "mean_reward": 0.3134
+   },
+   "hard": {
+    "total": 58,
+    "success_rate": 0.1552,
+    "mean_reward": -0.1457
+   },
+   "easy": {
+    "total": 1,
+    "success_rate": 1.0,
+    "mean_reward": 0.95
+   }
+  },
+  "by_scenario": {
+   "blocked_no_reason": {
+    "total": 11,
+    "success_rate": 0.2727
+   },
+   "damaged_logistics": {
+    "total": 12,
+    "success_rate": 0.1667
+   },
+   "defective_refund_only": {
+    "total": 16,
+    "success_rate": 0.5
+   },
+   "defective_return": {
+    "total": 9,
+    "success_rate": 0.3333
+   },
+   "late_complaint": {
+    "total": 14,
+    "success_rate": 0.0714
+   },
+   "not_delivered": {
+    "total": 2,
+    "success_rate": 0.0
+   },
+   "price_protection": {
+    "total": 8,
+    "success_rate": 0.5
+   },
+   "size_exchange": {
+    "total": 5,
+    "success_rate": 0.2
+   },
+   "suspicious_vip": {
+    "total": 14,
+    "success_rate": 0.0
+   },
+   "wrong_item": {
+    "total": 9,
+    "success_rate": 0.6667
+   }
+  }
+ }
+}

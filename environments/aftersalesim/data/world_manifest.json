@@ -1,0 +1,79 @@
+{
+ "world_seed": 20260910,
+ "task_seed": 20260911,
+ "today": "2026-09-08",
+ "counts": {
+  "products": 45,
+  "users": 600,
+  "orders": 1816,
+  "tasks": 600
+ },
+ "splits": {
+  "train": {
+   "tasks": 400,
+   "scenario_counts": {
+    "late_complaint": 37,
+    "suspicious_vip": 38,
+    "defective_return": 51,
+    "size_exchange": 30,
+    "blocked_no_reason": 62,
+    "wrong_item": 32,
+    "price_protection": 29,
+    "not_delivered": 38,
+    "damaged_logistics": 44,
+    "defective_refund_only": 39
+   },
+   "difficulty_counts": {
+    "hard": 209,
+    "medium": 178,
+    "easy": 13
+   }
+  },
+  "validation": {
+   "tasks": 100,
+   "scenario_counts": {
+    "blocked_no_reason": 15,
+    "damaged_logistics": 11,
+    "suspicious_vip": 10,
+    "defective_refund_only": 13,
+    "wrong_item": 7,
+    "late_complaint": 13,
+    "size_exchange": 7,
+    "price_protection": 6,
+    "defective_return": 15,
+    "not_delivered": 3
+   },
+   "difficulty_counts": {
+    "medium": 38,
+    "hard": 60,
+    "easy": 2
+   }
+  },
+  "evaluation": {
+   "tasks": 100,
+   "scenario_counts": {
+    "blocked_no_reason": 11,
+    "defective_return": 9,
+    "defective_refund_only": 16,
+    "late_complaint": 14,
+    "size_exchange": 5,
+    "price_protection": 8,
+    "suspicious_vip": 14,
+    "damaged_logistics": 12,
+    "wrong_item": 9,
+    "not_delivered": 2
+   },
+   "difficulty_counts": {
+    "medium": 41,
+    "hard": 58,
+    "easy": 1
+   }
+  }
+ },
+ "sha256": {
+  "policies.json": "5b70d4b60a4e80c83e025c0a70927150ee9ab0cf107d91c2e793eb428b6a1c15",
+  "products.json": "f882f0f48f3c382b48ca42836d21a63620788a59069ad109df12a2a6cc8447db",
+  "users.json": "4c72816180a903a5cb796978714776d3b7fe2f5b110705f12e718704fba9c0e7",
+  "orders.json": "cbc9719ceae1a97fec6f97d2d679351dddd3e218147ec046e0a33565da341e9e"
+ }
+}
